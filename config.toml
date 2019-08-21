@@ -41,14 +41,15 @@ googleAnalytics = ""
       #  hash = ""
 
   # Sidebar Navigation
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+ # [[params.navlinks]]
+ # name = "Home"
+ # url = "portfolio/"
+ # home = true
 
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  home = true
 
   [[params.navlinks]]
   name = "Quotes"

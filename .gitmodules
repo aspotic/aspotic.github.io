@@ -4,3 +4,7 @@
 [submodule "themes/creative"]
 	path = themes/creative
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:aspotic/aspotic.github.io.git
+	branch = master
