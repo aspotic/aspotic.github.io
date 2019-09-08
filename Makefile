@@ -15,10 +15,7 @@ save:
 	git push
 
 deploy:
-	cd public \
-		&& git add . \
-		&& git commit -m 'site rebuild' \
-		&& git push origin master
+	cd public && git add . && git commit -m 'site rebuild' && git push origin master
 
 dev:
 	hugo server

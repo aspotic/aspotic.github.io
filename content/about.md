@@ -14,6 +14,7 @@ I would like to keep primarily focused on software development, but since this i
 * Finance ☋ Psychology
 * Tea ☊ Coffee
 
+
 #### Timeline
 * **2019** 🕸 Created Pointer - A Dart/Angular app for pointing stories with a distributed team
 * **2019** 🕸 Founded adamknox.ca on Github pages and Hugo
