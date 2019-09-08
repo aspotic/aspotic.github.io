@@ -1,7 +1,10 @@
 all: install build save deploy
 
-install:
+install: .hugo
+
+.hugo:
 	brew install hugo
+	touch .hugo
 
 build:
 	hugo
