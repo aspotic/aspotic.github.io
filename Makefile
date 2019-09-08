@@ -7,6 +7,7 @@ install: .hugo
 	touch .hugo
 
 build:
+	cd public && rm -rf !\(.git\)
 	hugo
 
 save:
