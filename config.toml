@@ -51,10 +51,6 @@ googleAnalytics = ""
   url = "about/"
   home = true
 
-  [[params.navlinks]]
-  name = "Quotes"
-  url = "quotes/"
-
   [params.social]
   email         = "contact@adamknox.ca"
   linkedin      = "https://www.linkedin.com/in/adam-knox-4b86787b/"

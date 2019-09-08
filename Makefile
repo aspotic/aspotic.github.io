@@ -20,3 +20,5 @@ deploy:
 		&& git commit -m 'site rebuild' \
 		&& git push origin master
 
+dev:
+	hugo server
