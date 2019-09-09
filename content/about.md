@@ -12,7 +12,7 @@ I would like to keep primarily focused on software development, but since this i
 * Pokemon GO ☋ Drumming
 * Photography ☊ Travel
 * Finance ☋ Psychology
-* Tea ☊ Coffe
+* Tea ☊ Coffee
 
 #### Timeline
 * **2019** 🕸 Created Pointer - A Dart/Angular app for pointing stories with a distributed team
