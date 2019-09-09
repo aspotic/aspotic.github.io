@@ -8,3 +8,9 @@
 	path = public
 	url = git@github.com:aspotic/aspotic.github.io.git
 	branch = master
+[submodule "themes/themes/ananke"]
+	path = themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/simple-a"]
+	path = themes/simple-a
+	url = https://github.com/AlexFinn/simple-a.git

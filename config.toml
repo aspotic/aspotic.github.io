@@ -1,6 +1,6 @@
 baseurl = "https://aspotic.github.io/"
 title = "Adam Knox"
-theme = "creative"
+theme = "simple-a"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""

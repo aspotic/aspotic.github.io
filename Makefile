@@ -19,4 +19,4 @@ deploy:
 	cd public && git add . && git commit -m 'site rebuild' && git push origin master
 
 dev:
-	hugo server
+	hugo server -D

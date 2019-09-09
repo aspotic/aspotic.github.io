@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2019-08-21T15:41:03-06:00
+type: page
 ---
 Hi! I'm Adam and I hope you can get some value out of the collection of information I'm building here. 
 I'm currently a Software Development Engineer in Test with Workiva during the day and during the evenings I'm learning about a variety of subjects, relaxing, or honing some kind of skill.
