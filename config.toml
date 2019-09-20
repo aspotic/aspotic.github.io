@@ -1,4 +1,5 @@
 baseurl = "https://aspotic.github.io/"
+publishDir = "docs"
 title = "Adam Knox"
 theme = "simple-a"
 languageCode = "en-us"
