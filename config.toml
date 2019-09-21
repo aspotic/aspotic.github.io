@@ -1,4 +1,4 @@
-baseurl = "https://aspotic.githubpages.io/blog"
+baseurl = "https://adamknox.ca"
 publishDir = "docs"
 title = "Adam Knox"
 theme = "nederburg"

@@ -12,7 +12,7 @@ install: .hugo
 build: clean
 	hugo
 
-save:
+save: build
 	git add .
 	git commit -m 'site update'
 	git push
