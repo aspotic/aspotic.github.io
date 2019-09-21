@@ -1,13 +1,13 @@
 all: install build save deploy
 
+.hugo:
+	brew install hugo
+	touch .hugo
+
 clean:
 	rm -rf docs
 
 install: .hugo
-
-.hugo:
-	brew install hugo
-	touch .hugo
 
 build: clean
 	hugo
