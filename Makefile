@@ -1,13 +1,15 @@
 all: install build save deploy
 
+clean:
+	rm -rf docs
+
 install: .hugo
 
 .hugo:
 	brew install hugo
 	touch .hugo
 
-build:
-	rm -rf docs
+build: clean
 	hugo
 
 save:
@@ -15,5 +17,5 @@ save:
 	git commit -m 'site update'
 	git push
 
-dev:
+dev: clean
 	hugo server -D

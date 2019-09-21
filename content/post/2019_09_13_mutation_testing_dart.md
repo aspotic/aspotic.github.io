@@ -1,3 +1,13 @@
++++
+showonlyimage = false
+draft = true
+image = "img/post/mutation_analysis.svg"
+date = "2019-09-20T19:13:12+06:00"
+title = "VS Code Productivity"
+weight = 0
+categories = ["software testing", "software development", "mutation testing", "test framework", "javascript", "typescrpit", "dart", "programming"]
++++
+
 Mutation analysis for dart
 
 - stryker-mutator is a mutation testing framework for javascript (written in typescript) that allows creating plugins

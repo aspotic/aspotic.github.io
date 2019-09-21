@@ -1,10 +1,11 @@
 +++
 showonlyimage = false
 draft = true
-image = "img/portfolio/node.svg"
+image = "img/post/node.svg"
 date = "2019-09-11T19:13:12+06:00"
 title = "Creating a NodeJS Script"
 weight = 0
+categories = ["software development", "node", "javascript"]
 +++
 
 reference: https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/

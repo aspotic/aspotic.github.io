@@ -1,10 +1,11 @@
 +++
 showonlyimage = false
 draft = true
-image = "img/portfolio/dart_strykermutator.svg"
+image = "img/post/dart_strykermutator.svg"
 date = "2019-09-11T19:13:12+06:00"
 title = "Mutation Testing: Dart Transpiler for Stryker-Mutator"
 weight = 0
+categories = ["software testing", "software development", "mutation testing", "test framework", "javascript", "typescrpit", "dart", "programming"]
 +++
 
 reference: https://stryker-mutator.io/
