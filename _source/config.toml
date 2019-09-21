@@ -1,0 +1,140 @@
+baseurl = "https://aspotic.github.io"
+publishDir = ".."
+title = "Adam Knox"
+theme = "nederburg"
+languageCode = "en-us"
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[privacy]
+  # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
+  [privacy.googleAnalytics]
+    # set to true to disable service 
+    disable = false
+    # set to true to meet General Data Protection Regulation (GDPR)
+    anonymizeIP = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+
+[params]
+  # Unmark to use post folder for images. Default is static folder.
+  #usepostimgfolder = true
+  slogan = "Building my timeline since 1989"
+  description = "A history of things I might want to reference." # meta description
+  # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
+  #author = "Adam Knox"
+  #authorLink = "https://adamknox.ca"
+  #bio = [
+  #  "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+  #]
+  copyright = [
+    "&copy; 2019 Adam Knox",
+    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io)."
+  ]
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "contact@adamknox.ca"
+
+  # Nav links in the side bar
+  # [[menu.main]]
+  # name = "Portfolio"
+  # url = "portfolio/"
+  # weight = 1
+  # home = true
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  # [[menu.main]]
+  # name = "Get in touch"
+  # url = "contact/"
+  # weight = 3
+
+
+
+  [params.social]
+  email         = "contact@adamknox.ca"
+  linkedin      = "https://www.linkedin.com/in/adam-knox-4b86787b/"
+  github        = "https://github.com/aspotic"
+  stackoverflow = "https://stackoverflow.com/users/1679299/aspotic"
+  instagram     = "https://www.instagram.com/aspotic/"
+  youtube       = "https://www.youtube.com/channel/UC6ffMUc8CA1MJA3JTsU-ZbA"
+  facebook      = "http://facebook.com/Adam.R.Knox"
+  rss           = true
+
+# baseurl = "https://aspotic.github.io/"
+# publishDir = "docs"
+# title = "Adam Knox"
+# theme = "nederburg"
+# languageCode = "en-us"
+# # Enable comments by entering your Disqus shortname
+# disqusShortname = ""
+# # Enable Google Analytics by entering your tracking code
+# googleAnalytics = ""
+
+# [params]
+#   # Style options: default (pink), blue, green, pink, red, sea, violet
+#   # Use custom.css for your custom styling
+#   style = "sea"
+#   description = "A collection of work and things I find interesting"
+#   copyright = "&copy;2016 Adam Knox"
+#   sidebarAbout = [
+#     "∴Software Developer<br />∷Finance Enthusiast<br />∷Photographer<br />∵Musician",
+#     "From Swift Current and currently in Saskatoon."
+#   ]
+#   # Contact page
+#      # Since this template is static, the contact form uses www.formspree.io as a
+#      # proxy. The form makes a POST request to their servers to send the actual
+#      # email. Visitors can send up to a 1000 emails each month for free.
+#      #
+#      # What you need to do for the setup?
+#      #
+#      # - set your email address under 'email' below
+#      # - upload the generated site to your server
+#      # - send a dummy email yourself to confirm your account
+#      # - click the confirm link in the email from www.formspree.io
+#      # - you're done. Happy mailing!
+#   email = "contact@adamknox.ca"
+
+#     # Optional Matomo analytics (formerly piwik)
+#       # [params.analytics.matomo]
+#       #  URL = "https://stats.example.com"
+#       #  ID = "42"
+#       #  # Track all subdomains with "*.example.com" (Optional)
+#       #  domain = "www.example.com"
+#       #  # Optional integrity check hash
+#       #  hash = ""
+
+#   # Sidebar Navigation
+#  # [[params.navlinks]]
+#  # name = "Home"
+#  # url = "portfolio/"
+#  # home = true
+
+#   [[params.navlinks]]
+#   name = "About"
+#   url = "about/"
+#   home = true
+

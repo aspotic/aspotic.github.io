@@ -1,0 +1,12 @@
+[submodule "themes/simple-a"]
+	path = themes/simple-a
+	url = https://github.com/AlexFinn/simple-a.git
+[submodule "themes/potato-dark"]
+	path = themes/potato-dark
+	url = https://github.com/surajmandalcell/potato-dark
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
