@@ -6,21 +6,10 @@
     <description>Recent content on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2019 19:13:12 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 15:41:03 -0600</lastBuildDate>
     
 	<atom:link href="https://aspotic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Creating a NodeJS Script</title>
-      <link>https://aspotic.github.io/post/2019_09_11_node_script/</link>
-      <pubDate>Wed, 11 Sep 2019 19:13:12 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/post/2019_09_11_node_script/</guid>
-      <description>reference: https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/
-Create a NodeJS Package Create an empty package directory. Run npm init from inside the new directory.
-Create the NodeJS Script  can execute a script by running node &amp;lt;your js filename&amp;gt; put this at the top of the script file to run /usr/bin/env node no get it to run with node make the script file executable by running chmod +x &amp;lt;your js filename&amp;gt; test the script by running .</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -28,7 +17,7 @@ Create the NodeJS Script  can execute a script by running node &amp;lt;your js f
       <pubDate>Wed, 21 Aug 2019 15:41:03 -0600</pubDate>
       
       <guid>https://aspotic.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Adam and I hope you can get some value out of the collection of information I&amp;rsquo;m building here. I&amp;rsquo;m currently a Software Development Engineer in Test with Workiva during the day and during the evenings I&amp;rsquo;m learning about a variety of subjects, relaxing, or honing some kind of skill. I would like to keep primarily focused on software development, but since this is the About section, I&amp;rsquo;ll list the other things that might come up every once in a while and below is a timeline of my experience with development.</description>
+      <description>Hi! I&amp;rsquo;m Adam and I hope you can get some value out of the collection of information I&amp;rsquo;m building here. I&amp;rsquo;m currently a Software Development Engineer in Test with Workiva during the day and during the evenings I&amp;rsquo;m learning about a variety of subjects, relaxing, or honing some kind of skill. I would like to keep primarily focused on software development, but since this is the About section, I&amp;rsquo;ll list the other things that might come up every once in a while.</description>
     </item>
     
   </channel>
