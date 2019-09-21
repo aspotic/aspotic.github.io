@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Knox</title>
-    <link>https://adamknox.ca/</link>
+    <link>https://aspotic.github.io/</link>
     <description>Recent content on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2019 15:41:03 -0600</lastBuildDate>
     
-	<atom:link href="https://adamknox.ca/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aspotic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://adamknox.ca/about/</link>
+      <link>https://aspotic.github.io/about/</link>
       <pubDate>Wed, 21 Aug 2019 15:41:03 -0600</pubDate>
       
-      <guid>https://adamknox.ca/about/</guid>
+      <guid>https://aspotic.github.io/about/</guid>
       <description>Hi! I&amp;rsquo;m Adam and I hope you can get some value out of the collection of information I&amp;rsquo;m building here. I&amp;rsquo;m currently a Software Development Engineer in Test with Workiva during the day and during the evenings I&amp;rsquo;m learning about a variety of subjects, relaxing, or honing some kind of skill. I would like to keep primarily focused on software development, but since this is the About section, I&amp;rsquo;ll list the other things that might come up every once in a while and below is a timeline of my experience with development.</description>
     </item>
     

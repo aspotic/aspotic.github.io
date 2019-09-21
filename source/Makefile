@@ -13,7 +13,7 @@ build: clean
 	hugo
 
 save: build
-	git add .
+	git add ..
 	git commit -m 'site update'
 	git push
 
