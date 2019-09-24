@@ -67,6 +67,11 @@ paginate = 5 #frontpage pagination
   url = "about/"
   weight = 2
 
+  [[menu.main]]
+  name = "Tools"
+  url = "tools/"
+  weight = 3
+
   # [[menu.main]]
   # name = "Get in touch"
   # url = "contact/"

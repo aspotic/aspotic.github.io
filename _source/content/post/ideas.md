@@ -39,6 +39,4 @@ Ideas and categories for articles to write
 * SCRUM
 * Ergonomics
 * AST (Abstract Syntax Tree)
-
-Helpful Tools
-https://astexplorer.net/
+* Testing definition hierarchy

@@ -6,10 +6,20 @@
     <description>Recent content on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 19:41:00 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2019 20:18:00 -0600</lastBuildDate>
     
 	<atom:link href="https://aspotic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tools</title>
+      <link>https://aspotic.github.io/tools/</link>
+      <pubDate>Mon, 23 Sep 2019 20:18:00 -0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tools/</guid>
+      <description>This is a list of the various tools I have found helpful over the years
+Software Development  AST Explorer  An Abstract Syntax Tree (AST) is a tree of source code where the top is the whole file, the bottom are the smallest pieces like primitive variables, and the rest is in between. ASTs are very useful for static analysis. For example the Dart analyzer package can be used to generate an AST of Dart code for mutation testing.</description>
+    </item>
     
     <item>
       <title>Hosting a Static Site with Hugo</title>
