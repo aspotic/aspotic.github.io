@@ -97,7 +97,7 @@ paginate = 5 #frontpage pagination
 # # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # # Enable Google Analytics by entering your tracking code
-# googleAnalytics = ""
+googleAnalytics = "UA-148605526-1"
 
 # [params]
 #   # Style options: default (pink), blue, green, pink, red, sea, violet
