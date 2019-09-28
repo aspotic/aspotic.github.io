@@ -5,7 +5,7 @@ theme = "nederburg"
 languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-148605526-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
@@ -97,7 +97,7 @@ paginate = 5 #frontpage pagination
 # # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-148605526-1"
+# googleAnalytics = "UA-148605526-1"
 
 # [params]
 #   # Style options: default (pink), blue, green, pink, red, sea, violet
