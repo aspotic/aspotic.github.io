@@ -31,7 +31,7 @@ time_window: the moving window used for calculating sum
 span: the granularity of the time chart
 cont: set to false so that zero values are compressed. This also breaks continuity, but makes sparsly filled plots easier to read
 
-# Analysis of Timespans docker containers ran
+# Analysis of event time spans
 ```
 index="<index-name>" "<some optional filtering term>"
 | search "<field>"=<field value>
