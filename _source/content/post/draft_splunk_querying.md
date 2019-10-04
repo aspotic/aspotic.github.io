@@ -10,6 +10,13 @@ tags = []
 +++
 https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/streamstats
 
+# Building a list of indices
+```
+| eventcount summarize=false index=* 
+| stats sum(count)  as count by index 
+| sort -count
+```
+
 # Running Time Window Chart
 ```
 index="<index-name>" "<some optional filtering term>" 
