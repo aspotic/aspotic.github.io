@@ -40,3 +40,5 @@ Ideas and categories for articles to write
 * Ergonomics
 * AST (Abstract Syntax Tree)
 * Testing definition hierarchy
+* cat toys
+* * gauss cannon circuit

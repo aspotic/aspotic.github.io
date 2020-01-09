@@ -10,3 +10,11 @@ categories = ["IDE", "Software Development", "Productivity", "Programming", "Int
 
 https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys
 binding cmd + F2 to `make test`
+
+
+other  productivity stuff
+- shortcuts screen program
+- omni bars
+- os x bars
+- dev docker image
+- docker image web server & other docker tools
