@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://aspotic.github.io/tags/awe/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aspotic.github.io/categories/blog/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
@@ -23,7 +28,17 @@
   </url>
   
   <url>
+    <loc>https://aspotic.github.io/tags/clouds/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aspotic.github.io/categories/cms/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/color/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -53,7 +68,37 @@
   </url>
   
   <url>
+    <loc>https://aspotic.github.io/tags/light/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/nature/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/night/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/post/2021_04_24_noctiluscent_slough/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aspotic.github.io/tags/organization/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/photography/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/photography/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -69,6 +114,21 @@
   
   <url>
     <loc>https://aspotic.github.io/tags/productivity/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/saskatchewan/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/sky/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/summer/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -143,12 +203,12 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/static-site-generator/</loc>
+    <loc>https://aspotic.github.io/tags/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/tags/static-site-generator/</loc>
+    <loc>https://aspotic.github.io/categories/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   

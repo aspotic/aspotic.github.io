@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on Adam Knox</title>
+    <link>https://aspotic.github.io/categories/photography/</link>
+    <description>Recent content in photography on Adam Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 01:01:01 +0600</lastBuildDate>
+    
+	<atom:link href="https://aspotic.github.io/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noctiluscent Slough</title>
+      <link>https://aspotic.github.io/post/2021_04_24_noctiluscent_slough/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/post/2021_04_24_noctiluscent_slough/</guid>
+      <description>&lt;p&gt;Summer in Saskatchewan is really something.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
