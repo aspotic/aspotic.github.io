@@ -1,4 +1,4 @@
-all: install build save deploy
+all: install build save
 
 .hugo:
 	brew install hugo
