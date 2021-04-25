@@ -22,7 +22,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Building my timeline since 1989"
+  slogan = "Have a great day!"
   description = "A history of things I might want to reference." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   #author = "Adam Knox"

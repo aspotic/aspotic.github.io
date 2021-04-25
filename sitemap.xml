@@ -4,7 +4,107 @@
   
   <url>
     <loc>https://aspotic.github.io/</loc>
-    <lastmod>2019-09-23T20:18:00-06:00</lastmod>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/blog/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/blog/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/cms/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/encryption/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/git/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/github/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/github-pages/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/organization/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/post/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/productivity/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/productivity/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/tiddly/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/tiddlywiki/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/web-hosting/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/web-hosting/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/tags/wiki/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/wiki/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
   <url>
@@ -13,47 +113,12 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/tags/blog/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/blog/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/tags/buttercms/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/cms/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/git/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/tags/git/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/tags/github/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/tags/github-pages/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   
@@ -78,32 +143,12 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/post/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/tags/static-site-generator/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/categories/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/tags/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/tags/web-hosting/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/web-hosting/</loc>
+    <loc>https://aspotic.github.io/tags/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   

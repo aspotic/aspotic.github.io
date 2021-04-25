@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 19:41:00 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 01:01:01 +0600</lastBuildDate>
     
 	<atom:link href="https://aspotic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>blog</title>
       <link>https://aspotic.github.io/categories/blog/</link>
-      <pubDate>Mon, 23 Sep 2019 19:41:00 +0600</pubDate>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/blog/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>cms</title>
       <link>https://aspotic.github.io/categories/cms/</link>
-      <pubDate>Mon, 23 Sep 2019 19:41:00 +0600</pubDate>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/cms/</guid>
       <description></description>
@@ -32,9 +32,36 @@
     <item>
       <title>git</title>
       <link>https://aspotic.github.io/categories/git/</link>
-      <pubDate>Mon, 23 Sep 2019 19:41:00 +0600</pubDate>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>https://aspotic.github.io/categories/productivity/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/categories/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web hosting</title>
+      <link>https://aspotic.github.io/categories/web-hosting/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/categories/web-hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wiki</title>
+      <link>https://aspotic.github.io/categories/wiki/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/categories/wiki/</guid>
       <description></description>
     </item>
     
@@ -44,15 +71,6 @@
       <pubDate>Mon, 23 Sep 2019 19:41:00 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web hosting</title>
-      <link>https://aspotic.github.io/categories/web-hosting/</link>
-      <pubDate>Mon, 23 Sep 2019 19:41:00 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/categories/web-hosting/</guid>
       <description></description>
     </item>
     

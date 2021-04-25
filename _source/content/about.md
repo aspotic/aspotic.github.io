@@ -4,13 +4,13 @@ date: 2019-08-21T15:41:03-06:00
 type: page
 ---
 Hi! I'm Adam and I hope you can get some value out of the collection of information I'm building here. 
-I'm currently a Software Development Engineer in Test with Workiva during the day and during the evenings I'm learning about a variety of subjects, relaxing, or honing some kind of skill.
+I'm currently a Senior Software Development Engineer in Test with Workiva during the day and during the evenings I'm learning about a variety of subjects, relaxing, or honing some kind of skill.
 I would like to keep primarily focused on software development, but since this is the About section, I'll list the other things that might come up every once in a while. I've also included below a timeline of my experience with development.
 
 #### Subjects
 * Yoga/Somatics ☋ Running ☊ Biking ☋ Health
 * Software Development ☊ Electronics
-* Pokemon GO ☋ Drumming
+* Minecraft ☋ Drumming
 * Photography ☊ Travel
 * Finance ☋ Psychology
 * Tea ☊ Coffee

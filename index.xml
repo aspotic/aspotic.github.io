@@ -6,10 +6,19 @@
     <description>Recent content on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2019 20:18:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 24 Apr 2021 01:01:01 +0600</lastBuildDate>
     
 	<atom:link href="https://aspotic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hosting a TiddlyWiki on GitHub pages</title>
+      <link>https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/</guid>
+      <description>&lt;p&gt;These days we have so much information being thrown at us from all directions that it&amp;rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&amp;rsquo;s gone.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tools</title>
@@ -36,7 +45,7 @@ Software Development  AST Explorer  An Abstract Syntax Tree (AST) is a tree of s
       <pubDate>Wed, 21 Aug 2019 15:41:03 -0600</pubDate>
       
       <guid>https://aspotic.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Adam and I hope you can get some value out of the collection of information I&amp;rsquo;m building here. I&amp;rsquo;m currently a Software Development Engineer in Test with Workiva during the day and during the evenings I&amp;rsquo;m learning about a variety of subjects, relaxing, or honing some kind of skill. I would like to keep primarily focused on software development, but since this is the About section, I&amp;rsquo;ll list the other things that might come up every once in a while.</description>
+      <description>Hi! I&amp;rsquo;m Adam and I hope you can get some value out of the collection of information I&amp;rsquo;m building here. I&amp;rsquo;m currently a Senior Software Development Engineer in Test with Workiva during the day and during the evenings I&amp;rsquo;m learning about a variety of subjects, relaxing, or honing some kind of skill. I would like to keep primarily focused on software development, but since this is the About section, I&amp;rsquo;ll list the other things that might come up every once in a while.</description>
     </item>
     
   </channel>
