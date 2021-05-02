@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 01:01:01 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 02 May 2021 01:01:01 +0600</lastBuildDate>
     
 	<atom:link href="https://aspotic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>art</title>
       <link>https://aspotic.github.io/categories/art/</link>
-      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      <pubDate>Sun, 02 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://aspotic.github.io/categories/photography/</link>
+      <pubDate>Sun, 02 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/categories/photography/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photography</title>
-      <link>https://aspotic.github.io/categories/photography/</link>
-      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/categories/photography/</guid>
       <description></description>
     </item>
     
