@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = true
 image = "img/post/body.svg"
-date = "2019-09-11T19:13:12+06:00"
+date = "2021-05-02T19:13:12+06:00"
 title = "Epoxy Yeti Magslider"
 weight = 0
 categories = ["epoxy", "art"]
@@ -65,6 +65,6 @@ pour some more resin on the magnet
 let it set
 
 # Finish the magslider
-slice of any big epoxy bubbles with an exacto knife
+slice off any big epoxy bubbles with an exacto knife
 use a fine grit wet sandpaper to clean up the epoxy
 polish the magslider with polish compound or a heat treatment
