@@ -5,7 +5,7 @@ image = "img/post/body.svg"
 date = "2021-05-02T19:13:12+06:00"
 title = "Epoxy Yeti Magslider"
 weight = 0
-categories = ["epoxy", "art"]
+categories = ["resin", "art"]
 tags = ["epoxy", "art", "making", "replacement", "fix", "yeti", "tumbler", "magslider"]
 +++
 

@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/tags/photography/</loc>
+    <loc>https://aspotic.github.io/categories/photography/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/photography/</loc>
+    <loc>https://aspotic.github.io/tags/photography/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
   </url>
   
@@ -84,6 +84,11 @@
   
   <url>
     <loc>https://aspotic.github.io/tags/</loc>
+    <lastmod>2021-05-04T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aspotic.github.io/categories/travel/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
   </url>
   
@@ -158,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/blog/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/tags/blog/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
@@ -173,22 +173,12 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/cms/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/tags/color/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://aspotic.github.io/tags/encryption/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/git/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -223,12 +213,17 @@
   </url>
   
   <url>
+    <loc>https://aspotic.github.io/tags/productivity/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aspotic.github.io/categories/productivity/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/tags/productivity/</loc>
+    <loc>https://aspotic.github.io/categories/software-development/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -253,17 +248,7 @@
   </url>
   
   <url>
-    <loc>https://aspotic.github.io/categories/web-hosting/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aspotic.github.io/tags/wiki/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/wiki/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
   </url>
   
@@ -299,11 +284,6 @@
   
   <url>
     <loc>https://aspotic.github.io/tags/jekyll/</loc>
-    <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
   </url>
   

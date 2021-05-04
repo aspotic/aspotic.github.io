@@ -5,7 +5,7 @@ image = "img/post/noctilucent_slough.jpg"
 date = "2021-04-24T01:01:01+06:00"
 title = "Noctilucent Slough"
 weight = 0
-categories = ["photography", "art"]
+categories = ["photography", "art", "travel"]
 tags = ["photography","night", "sky", "clouds", "summer", "color", "light", "awe", "nature", "saskatchewan"]
 +++
 Summer in Saskatchewan is really something.
