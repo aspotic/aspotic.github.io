@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/post/big_muddy_fields.jpeg"
+image = "img/post/big_muddy_fields.jpg"
 date = "2021-05-03T01:01:01+06:00"
 title = "Big Muddy Fields"
 weight = 0

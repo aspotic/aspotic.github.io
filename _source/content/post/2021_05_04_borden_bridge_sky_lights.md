@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/post/borden_bridge_sky_lights.jpeg"
+image = "img/post/borden_bridge_sky_lights.jpg"
 date = "2021-05-04T01:01:01+06:00"
 title = "Borden Bridge Sky Lights"
 weight = 0
