@@ -5,14 +5,16 @@ type: page
 ---
 Hi! I'm Adam and I hope you can get some value out of the collection of information I'm building here. 
 I'm currently a Senior Software Development Engineer in Test with Workiva during the day and during the evenings I'm learning about a variety of subjects, relaxing, or honing some kind of skill.
-I would like to keep primarily focused on software development, but since this is the About section, I'll list the other things that might come up every once in a while. I've also included below a timeline of my experience with development.
+I would like to keep primarily focused on software development, but photography and cooking are going to 
+show up a lot too.
 
-#### Subjects
+#### Interests
 * Yoga/Somatics ☋ Running ☊ Biking ☋ Health
 * Software Development ☊ Electronics
 * Minecraft ☋ Drumming
 * Photography ☊ Travel
 * Finance ☋ Psychology
+* New Experiences
 * Tea ☊ Coffee
 
 #### Timeline
