@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dark on Adam Knox</title>
+    <link>https://aspotic.github.io/tags/dark/</link>
+    <description>Recent content in dark on Adam Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 01:01:01 +0600</lastBuildDate>
+    
+	<atom:link href="https://aspotic.github.io/tags/dark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Borden Bridge Sky Lights</title>
+      <link>https://aspotic.github.io/post/2021_05_04_borden_bridge_sky_lights/</link>
+      <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/post/2021_05_04_borden_bridge_sky_lights/</guid>
+      <description>&lt;p&gt;Land of the Living Skies!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Muddy Fields</title>
+      <link>https://aspotic.github.io/post/2021_05_03_big_muddy_fields/</link>
+      <pubDate>Mon, 03 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/post/2021_05_03_big_muddy_fields/</guid>
+      <description>&lt;p&gt;Muddy road at big muddy&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
