@@ -5,7 +5,7 @@ image = "img/post/flutter.png"
 date = "2021-05-02T19:13:12+06:00"
 title = "First Flutter App - Timed Vault"
 weight = 0
-categories = ["flutter", "software", "mobile", "programming"]
+categories = ["flutter", "software dev.", "productivity"]
 tags = ["flutter", "software", "mobile", "programming", "dev", "development", "web", "dart", "language", "productivity"]
 +++
 
