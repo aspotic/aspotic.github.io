@@ -23,3 +23,6 @@ dev: clean
 
 serve: clean
 	hugo server
+
+update:
+	brew upgrade hugo

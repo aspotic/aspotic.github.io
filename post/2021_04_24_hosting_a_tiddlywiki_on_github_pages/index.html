@@ -1,503 +1,403 @@
 <!DOCTYPE html>
-<html lang="en-us">
-<head><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script type="application/ld+json">
-    {
-        "@context" : "http://schema.org",
-        "@type" : "BlogPosting",
-        "mainEntityOfPage": {
-             "@type": "WebPage",
-             "@id": "https:\/\/aspotic.github.io"
-        },
-        "articleSection" : "post",
-        "name" : "Hosting a TiddlyWiki on GitHub pages",
-        "headline" : "Hosting a TiddlyWiki on GitHub pages",
-        "description" : "\x3cp\x3eThese days we have so much information being thrown at us from all directions that it\x26rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it\x26rsquo;s gone.\x3c\/p\x3e",
-        "inLanguage" : "en",
-        "author" : "",
-        "creator" : "",
-        "publisher": "",
-        "accountablePerson" : "",
-        "copyrightHolder" : "",
-        "copyrightYear" : "2021",
-        "datePublished": "2021-04-24 01:01:01 \x2b0600 \x2b0600",
-        "dateModified" : "2021-04-24 01:01:01 \x2b0600 \x2b0600",
-        "url" : "https:\/\/aspotic.github.io\/post\/2021_04_24_hosting_a_tiddlywiki_on_github_pages\/",
-        "wordCount" : "711",
-        "image" : "https://aspotic.github.ioimg/post/tiddlywiki.jpg"",
-        "keywords" : [ ""tiddlywiki"",""tiddly"",""wiki"",""github"",""github pages"",""web hosting"",""blog"",""productivity"",""organization"",""encryption"","Blog" ]   
-    }
-    </script>
+<html lang="en"><head>
 
 
- <title>Hosting a TiddlyWiki on GitHub pages </title>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148605526-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
-<meta name="description" content="A history of things I might want to reference." />
-
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
-<link rel="stylesheet" id="ct-tracks-google-fonts-css" href="https://fonts.googleapis.com/css?family=Raleway%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=4.7.2" type="text/css" media="all">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-
-<link href="https://aspotic.github.io/css/style.css?v=1620408133" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
-
-<link href="https://aspotic.github.io/css/custom.css?v=1620408133" rel="stylesheet" type='text/css' media='all'>
-<link rel="shortcut icon" href="https://aspotic.github.io/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="https://aspotic.github.io/img/favicon.ico" type="image/x-icon">
-
-
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-148605526-1', 'auto');
-	
-	ga('send', 'pageview');
-}
+  gtag('config', 'UA-148605526-1');
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
+<title>Adam Knox | Hosting a TiddlyWiki on GitHub pages</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+    <meta name="description" content="Adam Knox">
+    
+    <meta name="description" content="">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <meta name="theme-color" content="#ffffff">
+    <meta property="og:title" content="Adam Knox | Hosting a TiddlyWiki on GitHub pages" />
+    
+    
+        
+        <link rel="stylesheet" href="https://aspotic.github.io/css/styles.min.36cabdb7c843c05c28662dba74bf13cfe855ac25051234b81a0fa64bf93a464f.css" integrity="sha256-Nsq9t8hDwFwoZi26dL8Tz+hVrCUFEjS4Gg+mS/k6Rk8=">
+    
+    <link id="dark-mode-theme" rel="stylesheet" href="/css/darker.min.css" async disabled>
+    <link href="/css/blonde.min.css" rel="stylesheet" type="text/css" media="print"
+        onload="this.media='all'">
+    
+
+
+
+<meta name="description" content="These days we have so much information being thrown at us from all directions that it&rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&rsquo;s gone.">
+<meta property="og:site_name" content="Adam Knox">
+<meta property="og:description" content="These days we have so much information being thrown at us from all directions that it&rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&rsquo;s gone.">
+<meta property="og:url" content="https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="">
+
+<link rel="canonical" href="https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/">
+
+<meta name="twitter:description" content="These days we have so much information being thrown at us from all directions that it&rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&rsquo;s gone.">
+<meta property="article:published_time" content="2021-04-24T01:01:01&#43;06:00">
+<meta property="article:updated_time" content="2021-04-24T01:01:01&#43;06:00">
+
+
+
+
+
+    
+<meta property="og:image" content="https://aspotic.github.io/img/post/tiddlywiki.jpg">
+<meta property="og:image:url" content="https://aspotic.github.io/img/post/tiddlywiki.jpg">
+    
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
 </head>
-
-
-<body class="post-template-default single single-post single-format-standard ct-body singular singular-post not-front standard">
-
-  <div id="overflow-container" class="overflow-container">
-    <a class="skip-content" href="#main">Skip to content</a>
-    <header id="site-header" class="site-header" role="banner">
-      <div class='top-navigation'>
-        <div class='container'>
-
-  <div id="menu-secondary" class="menu-container menu-secondary" role="navigation">
-    <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fas fa-plus"></i></button>
-
-    <div class="menu">
-
-      <ul id="menu-secondary-items" class="menu-secondary-items">
-        
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="/categories/art">art</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="/categories/photography">photography</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="/categories/productivity">productivity</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="/categories/software-dev.">software-dev.</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="/categories/travel">travel</a>
-        </li>
-        
-
-      </ul>
-
+<body class="font-sans">
+    <div class="min-h-screen flex flex-col bg-gray-100"><div class="bg-gray-800">
+    <div class="container mr-auto ml-auto">
+        <nav class="flex items-center justify-between flex-wrap bg-gray-800 p-6">
+            <div class="flex items-center flex-no-shrink bg-gray-800 text-white mr-6">
+                <a href="https://aspotic.github.io"><span
+                        class="font-semibold text-2xl tracking-tight">Adam Knox</span></a>
+            </div>
+            <div class="flex md:hidden">
+                <div class="py-2">
+                    <a id="dark-mode-toggle-1" href="javascript:void(0);" class="no-underline text-white mr-2"><span
+                            id="dark-mode-toggle-icon1"
+                            class="icon-moon inline-flex align-middle leading-normal text-lg mr-2" aria-label="Darkmode Toggle Button"></span></a>
+                    <span class="text-gray-300">|</span>
+                </div>
+                <button id="hamburgerbtn"
+                    class="flex items-center px-3 py-1 text-gray-300 hover:text-white">
+                    <span class="icon-menu text-2xl" aria-label="Hamburger Button"></span>
+                </button>
+            </div>
+            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
+                <div class="text-sm lg:flex-grow">
+                </div>
+                <div class="navmenu">
+                    
+                    <a href="/"
+                        class="no-underline block mt-4 sm:inline-block sm:mt-0 text-gray-400 hover:text-white mr-4">
+                        Home
+                    </a>
+                    
+                    <a href="/about/"
+                        class="no-underline block mt-4 sm:inline-block sm:mt-0 text-gray-400 hover:text-white mr-4">
+                        About
+                    </a>
+                    
+                    <a href="/contact/"
+                        class="no-underline block mt-4 sm:inline-block sm:mt-0 text-gray-400 hover:text-white mr-4">
+                        Contact
+                    </a>
+                    
+                </div>
+                <div class="text-gray-400 invisible md:visible">
+                    <span>|</span>
+                    <a id="dark-mode-toggle-2" href="javascript:void(0);" class="no-underline hover:text-white"><span
+                            id="dark-mode-toggle-icon2"
+                            class="icon-moon inline-flex align-middle leading-normal text-lg mr-2"></span></a>
+                </div>
+            </div>
+        </nav>
     </div>
+</div>
+<style>
+    .active {
+        display: block;
+    }
+</style>
+<script>
+    let hamburger = document.getElementById('hamburgerbtn');
 
-  </div>
+    let mobileMenu = document.getElementById('mobileMenu');
 
-
-  <ul class="social-media-icons">
-
-
-    
-    <li>
-      <a href="http://facebook.com/Adam.R.Knox" data-animate-hover="pulse" class="facebook" target="_blank">
-        <i class="fab fa-facebook-square" title="facebook"></i>
-        <span class="screen-reader-text">facebook</span>
-      </a>
-    </li>
-    
-
-    
-
-    
-
-    
-    <li>
-      <a href="https://www.instagram.com/aspotic/" data-animate-hover="pulse" class="instagram" target="_blank">
-        <i class="fab fa-instagram" title="instagram"></i>
-        <span class="screen-reader-text">instagram</span>
-      </a>
-    </li>
-    
-
-    
-    <li>
-      <a href="mailto:contact@adamknox.ca" data-animate-hover="pulse" class="email">
-        <i class="fas fa-envelope" title="email"></i>
-        <span class="screen-reader-text">email</span>
-      </a>
-    </li>
-    
-
-    
-    <li>
-      <a href="https://www.linkedin.com/in/adam-knox-4b86787b/" data-animate-hover="pulse" class="linkedin" target="_blank">
-        <i class="fab fa-linkedin-in" title="linkedin"></i>
-        <span class="screen-reader-text">linkedin</span>
-      </a>
-    </li>
-    
-
-    
-    <li>
-      <a href="https://stackoverflow.com/users/1679299/aspotic" data-animate-hover="pulse" class="stackoverflow" target="_blank">
-        <i class="fab fa-stack-overflow" title="stackoverflow"></i>
-        <span class="screen-reader-text">stackoverflow</span>
-      </a>
-    </li>
-    
-
-
-    
-    <li>
-      <a href="https://github.com/aspotic" data-animate-hover="pulse" class="github" target="_blank">
-        <i class="fab fa-github" title="github"></i>
-        <span class="screen-reader-text">github</span>
-      </a>
-    </li>
-    
-
-
-    
-
-    
-    <li>
-      <a href="https://aspotic.github.io/index.xml" data-animate-hover="pulse" class="rss" target="_blank">
-        <i class="fas fa-rss" title="rss"></i>
-        <span class="screen-reader-text">rss</span>
-      </a>
-    </li>
-    
-
-
-  </ul></div>
-
-      </div>
-
-      <div class="container">
-        <div id="title-info" class="title-info">
-  <div id='site-title' class='site-title'>
-    
-    <a href="/"> Adam Knox </a>
-    </div>
-  </div>
-  <button id="toggle-navigation" class="toggle-navigation">
-    <i class="fas fa-bars"></i>
-  </button>
-
-  <div id="menu-primary-tracks" class="menu-primary-tracks"></div>
-  <div id="menu-primary" class="menu-container menu-primary" role="navigation">
-    
-    <p class="site-description">Have a great day!</p>
-    
-
-    <div class="menu">
-      <ul id="menu-primary-items" class="menu-primary-items">
+    hamburger.addEventListener('click', function () {
+        mobileMenu.classList.toggle('active');
+    });
+</script>
+<div class="container mx-auto mt-4 flex-grow" id="content">
+            <div class="lg:mx-5">
+<div class="grid grid-cols-3 gap-4">
+    <div class="bg-white col-span-3 lg:col-span-2 p-5">
+        <h1 class="title text-4xl">Hosting a TiddlyWiki on GitHub pages</h1>
+        <aside id="meta">
+            <div>
+                <section>
+                    <h4 id="date"><span class="icon-access_time mr-1"></span>2021/04/24 </h4>
+                </section>
+                
+                <div id="tags">
+                    <span class="icon-local_offer mr-1"></span>
+                    
+                    <a href="https://aspotic.github.io/tags/tiddlywiki">tiddlywiki</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/tiddly">tiddly</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/wiki">wiki</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/github">github</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/github-pages">github pages</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/web-hosting">web hosting</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/blog">blog</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/productivity">productivity</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/organization">organization</a> |
+                    
+                    <a href="https://aspotic.github.io/tags/encryption">encryption</a> |
+                    
+                </div>
+                
+            </div>
+        </aside>
         
+        <img class="my-4" src="https://aspotic.github.io/img/post/tiddlywiki.jpg">
         
-        <li class='menu-item menu-item-type-custom menu-item-object-custom '>
-          <a href="https://aspotic.github.io/">Home</a>
-          
-        </li>
-        
-        <li class='menu-item menu-item-type-post_type menu-item-object-page '>
-          <a href="https://aspotic.github.io/about/">About</a>
-          
-        </li>
-        
-        <li class='menu-item menu-item-type-post_type menu-item-object-page '>
-          <a href="https://aspotic.github.io/tools/">Tools</a>
-          
-        </li>
-        
-      </ul>
-    </div>
-
-  </div>
-
-      </div>
-    </header>
-
-    <div id="main" class="main" role="main">
-
-      
-  
-  
-    
-  
-  
-  <div id="loop-container" class="loop-container">
-    
-    <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
-
-      <div class='featured-image lazy lazy-bg-image'  data-background="https://aspotic.github.io/img/post/tiddlywiki.jpg">
-      </div>
-      
-        <div class="entry-meta">
-          <span class="date">24 April</span>	<span> / </span>
-
-          <span class="author">
-            <a href="https://aspotic.github.io" title="Posts by " rel="author"></a>
-          </span>
-
-
-          
-          <span class="category">
-            <span> / </span>
-
-            <a href="/categories/software-dev.">software dev.</a>
-          </span>
-          
-          <span class="category">
-            <span> / </span>
-
-            <a href="/categories/productivity">productivity</a>
-          </span>
-          
-
-
-        </div>
-        <div class='entry-header'>
-          <h1 class='entry-title'> Hosting a TiddlyWiki on GitHub pages</h1>
-        </div>
-        <div class="entry-container">
-          <div class="entry-content">
-            <article>
-              <p>These days we have so much information being thrown at us from all directions that it&rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&rsquo;s gone.</p>
-
+        <div class="content"><p>These days we have so much information being thrown at us from all directions that it&rsquo;s hard to figure out what to do with it. I decided to try hosting an encrypted tiddlywiki with github pages for organizing my life, read on to find out how it&rsquo;s gone.</p>
 <h2 id="what-is-tiddlywiki">What is TiddlyWiki?</h2>
-
 <p><a href="https://tiddlywiki.com/">TiddlyWiki</a> is a single page wiki. It excels at connecting together complicated
 data in an easy to consume format. It&rsquo;s also extensible and has a number of useful plugins already available.</p>
-
 <h2 id="why-i-wanted-a-wiki">Why I wanted a wiki</h2>
-
 <p>This lovely pandemic year has resulted in some difficulty staying on task and have been a bit scatter brained. I was hoping a wiki would be a good way to rein in this scatterbrained and distracted state because it&rsquo;s easy to drop in some info and forget about things until they can be dealt with properly because they&rsquo;re now written down and can be filed away for later.</p>
-
 <h2 id="how-i-set-up-my-tiddlywiki">How I set up my Tiddlywiki</h2>
-
 <p>There were just 4 things I needed to do to get my wiki up and available when/where I want it in a secure fashion. An empty wiki, github pages, and a couple configurations</p>
-
 <h3 id="getting-your-own">Getting your own</h3>
-
 <p>TiddlyWiki itself is about as easy as it comes when dealing with installations. Since it&rsquo;s a single html page, all you need to do is go to <a href="https://tiddlywiki.com/#GettingStarted">this tiddler</a> and click &ldquo;download empty&rdquo;, then open the file and that&rsquo;s your tiddlywiki!</p>
-
 <h3 id="hosting-on-github-pages">Hosting on GitHub Pages</h3>
-
-<p>The great thing about this being a simple html page is that it&rsquo;s dead simple to host!. This means <a href="https://pages.github.com/">github pages</a> is a great place to keep it. Just throw it into your <username>.github.io repo (or another repo with pages set up on it).</p>
-
+<p>The great thing about this being a simple html page is that it&rsquo;s dead simple to host!. This means <a href="https://pages.github.com/">github pages</a> is a great place to keep it. Just throw it into your <!-- raw HTML omitted -->.github.io repo (or another repo with pages set up on it).</p>
 <h3 id="keep-it-secret-keep-it-safe">Keep it secret. Keep it safe.</h3>
-
 <p>I&rsquo;d personally rather keep my wiki contents to myself, and there happens to be a <a href="https://tiddlywiki.com/static/Encryption.html">handy tool</a> already in available that will enable encryption for your html page. Follow those instructions, and instead of loading your wiki on open, you&rsquo;ll be greeted with a password field to decrypt the wiki page.</p>
-
 <h3 id="updating-a-github-hosted-wiki">Updating a github hosted wiki</h3>
-
 <p>Where it gets a little bit more interesting (but still pretty easy) is saving. By default, tiddlywiki saves just give you a link to download the html file that has the changes. If this is stored in a github repo, then this system will be pretty cumbersome. Enter the <a href="https://tiddlywiki.com/static/Saving%2520to%2520a%2520Git%2520service.html">GitHub Saver</a>. Follow those instructions and when you hit your save button, the wiki will directly update the github repo with the new wiki file!</p>
-
 <h2 id="alternative-setups">Alternative setups</h2>
-
 <p>I took this encrypted github pages approach because I&rsquo;m not super concerned if someone downloads it and brute forces the encryption and like the convenience of the github pages hosting (also a trusted host). The <a href="https://tiddlywiki.com/#GettingStarted">Getting Started</a> page includes a plethora of other options to set up a tiddlywiki, so if this method isn&rsquo;t for you, then one of those might be.</p>
-
-<h2 id="how-it-s-going">How it&rsquo;s going</h2>
-
+<h2 id="how-its-going">How it&rsquo;s going</h2>
 <h3 id="pros">Pros</h3>
-
-<p>I&rsquo;ve been thrilled with how TiddlyWiki has been working out. So much so, that I now have both a personal one and a work one. The biggest pros for me have been:
-* It has made saving information that doesn&rsquo;t really fit cleanly in specific areas a natural process
-* I can find information via multiple routes, a nice feature when storing many different types of data. Options include search, history of most recently opened tiddlers, following links in other tiddlers, and tags
-* Has been great for time management, tracking task status, meeting notes, learning notes, and linking everything together
-* Accessible anywhere with internet and on multiple devices</p>
-
-<h3 id="cons">Cons</h3>
-
-<p>The only real cons I&rsquo;ve come across have been that github seems to be rate limited so sometimes I have to wait to make saves, and saves aren&rsquo;t automatic when using the github saver. This is kind of good too though because the method of saving means multiple instances open could cause old data to overwrite new data. An improvement would be to reload when the github repo gets an update.</p>
-
-<h2 id="recommendation">Recommendation</h2>
-
-<p>Overall, TiddlyWiki has been a great experience. For my use cases the saving issues haven&rsquo;t really cause me much trouble and I&rsquo;ve been significantly more organized. It&rsquo;s very easy to setup, so definitely worth giving it a shot!</p>
-            </article>
-          </div>
-          
-      <div class='entry-meta-bottom'>
-        
-
-  <div class="entry-categories"><p><span>Categories</span>
-    
-    <a href="/categories/software-dev." title="View all posts in software dev.">software dev.</a>
-    <a href="/categories/productivity" title="View all posts in productivity">productivity</a>
-  </p>
-</div>
-
-
-
-<div class="entry-tags"><p><span>Tags</span>
-  
-  <a href="/tags/tiddlywiki" title="View all posts tagged tiddlywiki">tiddlywiki</a>
-  
-  <a href="/tags/tiddly" title="View all posts tagged tiddly">tiddly</a>
-  
-  <a href="/tags/wiki" title="View all posts tagged wiki">wiki</a>
-  
-  <a href="/tags/github" title="View all posts tagged github">github</a>
-  
-  <a href="/tags/github-pages" title="View all posts tagged github pages">github pages</a>
-  
-  <a href="/tags/web-hosting" title="View all posts tagged web hosting">web hosting</a>
-  
-  <a href="/tags/blog" title="View all posts tagged blog">blog</a>
-  
-  <a href="/tags/productivity" title="View all posts tagged productivity">productivity</a>
-  
-  <a href="/tags/organization" title="View all posts tagged organization">organization</a>
-  
-  <a href="/tags/encryption" title="View all posts tagged encryption">encryption</a>
-  
-
-</p></div>	</div>
-
-	
-</div>
-</div>
-
-<section id="comments" class="comments">
-  
-
-  
-
-
-
-
-</section>
-</div>
-
- 
-
-
-
-    </div>
-
-    <footer id="site-footer" class="site-footer" role="contentinfo">
-	<h1>
-    
-    <a href=""> Adam Knox </a>
-    
-	</h1>
-
-			
-			<p class="site-description">Have a great day!</p>
-			
-
-		<div id="menu-footer" class="menu-container menu-footer" role="navigation">
-		<div class="menu">
-
-      <ul id="menu-footer-items" class="menu-footer-items">
-        
+<p>I&rsquo;ve been thrilled with how TiddlyWiki has been working out. So much so, that I now have both a personal one and a work one. The biggest pros for me have been:</p>
+<ul>
+<li>It has made saving information that doesn&rsquo;t really fit cleanly in specific areas a natural process</li>
+<li>I can find information via multiple routes, a nice feature when storing many different types of data. Options include search, history of most recently opened tiddlers, following links in other tiddlers, and tags</li>
+<li>Has been great for time management, tracking task status, meeting notes, learning notes, and linking everything together</li>
+<li>Accessible anywhere with internet and on multiple devices</li>
 </ul>
-
-</div>	</div>
-
-<ul class="social-media-icons">
-
+<h3 id="cons">Cons</h3>
+<p>The only real cons I&rsquo;ve come across have been that github seems to be rate limited so sometimes I have to wait to make saves, and saves aren&rsquo;t automatic when using the github saver. This is kind of good too though because the method of saving means multiple instances open could cause old data to overwrite new data. An improvement would be to reload when the github repo gets an update.</p>
+<h2 id="recommendation">Recommendation</h2>
+<p>Overall, TiddlyWiki has been a great experience. For my use cases the saving issues haven&rsquo;t really cause me much trouble and I&rsquo;ve been significantly more organized. It&rsquo;s very easy to setup, so definitely worth giving it a shot!</p></div>
+        <hr class="py-2">
+        <aside id="meta">
+            
+            <div id="categories">
+                <span class="icon-folder text-xl mr-1"></span>
+                
+                <span
+                    class="inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-200 justify-center h-8 px-3 text-blue-500 hover:text-black"><a
+                        href="https://aspotic.github.io/categories/software-dev">Software Dev</a></span>
+                
+                <span
+                    class="inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-200 justify-center h-8 px-3 text-blue-500 hover:text-black"><a
+                        href="https://aspotic.github.io/categories/productivity">Productivity</a></span>
+                
+            </div>
+            
+            <div class="grid grid-cols-2">
+                <div class="col-span-1">
+                    
+                    <a class="previous lg:text-2xl" href="https://aspotic.github.io/post/2021_04_24_noctilucent_slough/">
+                        <div class="bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
+                            &lt; Noctilucent Slough
+                        </div>
+                    </a>
+                    
+                </div>
+                
+                <a class="next lg:text-2xl" href="https://aspotic.github.io/post/2021_05_02_sleepy_olympus/">
+                    <div class="col-span-1 bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
+                        Sleepy Olympus &gt;
+                    </div>
+                </a>
+                
+            </div>
+        </aside>
+        <hr class="py-2">
+        <div class="mb-3">
+            
+        </div>
+    </div>
+    <div class="hidden lg:block lg:col-span-1">
         
-				<li>
-					<a class="facebook" target="_blank"
-					   href="http://facebook.com/Adam.R.Knox" >
-						<i class="fab fa-facebook-f" title="facebook"></i>
-						<span class="screen-reader-text">facebook</span>
-					</a>
-				</li>
         
-
-        
-
-
-        
-
-        
-        <li>
-        <a href="https://www.instagram.com/aspotic/"  class="instagram" target="_blank">
-            <i class="fab fa-instagram" title="instagram"></i>
-            <span class="screen-reader-text">instagram</span>
-        </a>
-        </li>
-        
-
-        
-        <li>
-        <a href="mailto:contact@adamknox.ca"  class="email">
-            <i class="fas fa-envelope" title="email"></i>
-            <span class="screen-reader-text">email</span>
-        </a>
-        </li>
-        
-
-        
-        <li>
-        <a href="https://www.linkedin.com/in/adam-knox-4b86787b/" class="linkedin" target="_blank">
-            <i class="fab fa-linkedin-in" title="linkedin"></i>
-            <span class="screen-reader-text">linkedin</span>
-        </a>
-        </li>
-        
-
-        
-        <li>
-        <a href="https://stackoverflow.com/users/1679299/aspotic"  class="stackoverflow" target="_blank">
-            <i class="fab fa-stack-overflow" title="stackoverflow"></i>
-            <span class="screen-reader-text">stackoverflow</span>
-        </a>
-        </li>
         
 
+<div class="bg-white panel mb-3 pb-5">
+    <p class="text-xl text-center text-gray-700 py-5">Categories</p>
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="https://aspotic.github.io/categories/art">Art</a>
+
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="https://aspotic.github.io/categories/photography">Photography</a>
+
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="https://aspotic.github.io/categories/productivity">Productivity</a>
+
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="https://aspotic.github.io/categories/software-dev">Software dev</a>
+
+    
+    <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="https://aspotic.github.io/categories/travel">Travel</a>
+
+    
+</div>
+
 
         
-        <li>
-        <a href="https://github.com/aspotic"  class="github" target="_blank">
-            <i class="fab fa-github" title="github"></i>
-            <span class="screen-reader-text">github</span>
-        </a>
-        </li>
-        
+
+<div class="bg-white panel mb-3">
+    <p class="text-xl text-center text-gray-700 py-3 pl-3">Tags</p>
+    <div class="panel-block p-2">
+        <a href="/tags/animal">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                animal
+            </span></a>
+        <a href="/tags/architecture">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                architecture
+            </span></a>
+        <a href="/tags/awe">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                awe
+            </span></a>
+        <a href="/tags/aww">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                aww
+            </span></a>
+        <a href="/tags/badlands">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                badlands
+            </span></a>
+        <a href="/tags/big-muddy">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                big-muddy
+            </span></a>
+        <a href="/tags/blog">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                blog
+            </span></a>
+        <a href="/tags/bridge">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                bridge
+            </span></a>
+        <a href="/tags/buttercms">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                buttercms
+            </span></a>
+        <a href="/tags/canada">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                canada
+            </span></a>
+        <a href="/tags/canola">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                canola
+            </span></a>
+        <a href="/tags/cat">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                cat
+            </span></a>
+        <a href="/tags/clouds">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                clouds
+            </span></a>
+        <a href="/tags/color">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                color
+            </span></a>
+        <a href="/tags/countryside">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                countryside
+            </span></a>
+        <a href="/tags/dark">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                dark
+            </span></a>
+        <a href="/tags/encryption">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                encryption
+            </span></a>
+        <a href="/tags/field">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                field
+            </span></a>
+        <a href="/tags/git">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                git
+            </span></a>
+        <a href="/tags/github">
+            <span
+                class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+                github
+            </span></a>
+    </div>
+</div>
 
 
-        
 
         
-        <li>
-        <a href="https://aspotic.github.io/index.xml" data-animate-hover="pulse" class="rss" target="_blank">
-            <i class="fas fa-rss" title="rss"></i>
-            <span class="screen-reader-text">rss</span>
-        </a>
-        </li>
-        
+    </div>
+</div>
 
-				</ul>	<div class="design-credit">
-		
-		<p>&copy; 2019 Adam Knox</p>
-		
-		<p>Nederburg Hugo Theme by <a href="https://appernetic.io">Appernetic</a>.</p>
-		
-	</div>
+            </div>
+        </div><footer class="bg-gray-800 text-white p-6">
+    
+    <div class="container mr-auto ml-auto">
+        <p>&copy; 2021 <a href="https://aspotic.github.io" class="hover:text-gray-500">Adam Knox</a></p>
+        <p>Powered by <a href="https://gohugo.io/" class="hover:text-gray-500">Hugo</a>, Theme <a
+                href="https://github.com/opera7133/Blonde" class="hover:text-gray-500">Blonde</a>.</p>
+    </div>
+    <script src="/js/switch.js"></script>
 </footer>
-
-  </div>
-  <script src="https://aspotic.github.io/js/jquery.min.js"></script>
-<script src="https://aspotic.github.io/js/jquerymigrate.js"></script>
-<script src="https://aspotic.github.io/js/production.min.js?v=1620408133"></script>
-
+</div>
 </body>
+
 </html>

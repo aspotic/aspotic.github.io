@@ -1,395 +1,243 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aspotic.github.io/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/categories/art/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/canola/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/categories/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/countryside/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/field/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/nature/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/photography/</loc>
-    <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/photography/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aspotic.github.io/categories/photography/</loc>
+    <lastmod>2021-05-07T01:01:01+06:00</lastmod>
+  </url><url>
     <loc>https://aspotic.github.io/post/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/saskatchewan/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/strongfield/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_07_strongfield_canola/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/sunset/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/categories/travel/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/yellow/</loc>
     <lastmod>2021-05-07T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/montana/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_06_montana_target_practice/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/moody/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/rain/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/sign/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/storm/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/weather/</loc>
     <lastmod>2021-05-06T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/animal/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_05_henry_doorly_jellyfish/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/jellyfish/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/travel/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/water/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/zoo/</loc>
     <lastmod>2021-05-05T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/architecture/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_04_borden_bridge_sky_lights/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/bridge/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/canada/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/dark/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/green/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/night/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/saskatoon/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/sky/</loc>
     <lastmod>2021-05-04T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/badlands/</loc>
     <lastmod>2021-05-03T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/big-muddy/</loc>
     <lastmod>2021-05-03T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_03_big_muddy_fields/</loc>
     <lastmod>2021-05-03T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/gravel-road/</loc>
     <lastmod>2021-05-03T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/aww/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/cat/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/kitten/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/olympus/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/pet/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_05_02_sleepy_olympus/</loc>
     <lastmod>2021-05-02T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/awe/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/blog/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/clouds/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/color/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/encryption/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/github/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/github-pages/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_04_24_hosting_a_tiddlywiki_on_github_pages/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/light/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2021_04_24_noctilucent_slough/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/organization/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/tags/productivity/</loc>
-    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/categories/productivity/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aspotic.github.io/categories/software-dev./</loc>
+  </url><url>
+    <loc>https://aspotic.github.io/tags/productivity/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aspotic.github.io/categories/software-dev/</loc>
+    <lastmod>2021-04-24T01:01:01+06:00</lastmod>
+  </url><url>
     <loc>https://aspotic.github.io/tags/summer/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/tiddly/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/tiddlywiki/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/web-hosting/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/wiki/</loc>
     <lastmod>2021-04-24T01:01:01+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tools/</loc>
     <lastmod>2019-09-23T20:18:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/buttercms/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/git/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/google-appengine/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/post/2019_09_23_hosting_a_static_site_with_hugo/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/hugo/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/jekyll/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/static-site-generator/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/tags/wordpress/</loc>
     <lastmod>2019-09-23T19:41:00+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aspotic.github.io/about/</loc>
     <lastmod>2019-08-21T15:41:03-06:00</lastmod>
+  </url><url>
+    <loc>https://aspotic.github.io/archives/</loc>
+  </url><url>
+    <loc>https://aspotic.github.io/contact/</loc>
   </url>
-  
 </urlset>

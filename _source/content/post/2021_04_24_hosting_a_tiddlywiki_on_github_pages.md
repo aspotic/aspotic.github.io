@@ -5,7 +5,7 @@ image = "img/post/tiddlywiki.jpg"
 date = "2021-04-24T01:01:01+06:00"
 title = "Hosting a TiddlyWiki on GitHub pages"
 weight = 0
-categories = ["software dev.", "productivity"]
+categories = ["Software Dev", "Productivity"]
 tags = ["tiddlywiki","tiddly", "wiki", "github", "github pages", "web hosting", "blog", "productivity", "organization", "encryption"]
 +++
 

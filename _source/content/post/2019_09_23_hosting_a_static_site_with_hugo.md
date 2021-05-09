@@ -5,7 +5,7 @@ image = "img/post/hugo_static_site_generator.svg"
 date = "2019-09-23T19:41:00+06:00"
 title = "Hosting a Static Site with Hugo"
 weight = 0
-categories = ["software dev."]
+categories = ["Software Dev", "Productivity"]
 tags = ["hugo","static site generator", "github", "github pages", "web hosting", "blog", "jekyll", "google appengine", "buttercms", "git", "wordpress"]
 +++
 
