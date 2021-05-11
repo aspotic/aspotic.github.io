@@ -6,47 +6,65 @@
     <description>Recent content in Tags on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 May 2021 01:01:01 +0600</lastBuildDate><atom:link href="https://aspotic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 01:01:01 +0600</lastBuildDate><atom:link href="https://aspotic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>canola</title>
-      <link>https://aspotic.github.io/tags/canola/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <title>architecture</title>
+      <link>https://aspotic.github.io/tags/architecture/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/tags/canola/</guid>
+      <guid>https://aspotic.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>countryside</title>
-      <link>https://aspotic.github.io/tags/countryside/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <title>city</title>
+      <link>https://aspotic.github.io/tags/city/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/tags/countryside/</guid>
+      <guid>https://aspotic.github.io/tags/city/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>field</title>
-      <link>https://aspotic.github.io/tags/field/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <title>lights</title>
+      <link>https://aspotic.github.io/tags/lights/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/tags/field/</guid>
+      <guid>https://aspotic.github.io/tags/lights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mist</title>
+      <link>https://aspotic.github.io/tags/mist/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/mist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nature</title>
       <link>https://aspotic.github.io/tags/nature/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>night</title>
+      <link>https://aspotic.github.io/tags/night/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/night/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>photography</title>
       <link>https://aspotic.github.io/tags/photography/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/photography/</guid>
       <description></description>
@@ -55,18 +73,144 @@
     <item>
       <title>saskatchewan</title>
       <link>https://aspotic.github.io/tags/saskatchewan/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/saskatchewan/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>saskatoon</title>
+      <link>https://aspotic.github.io/tags/saskatoon/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/saskatoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smoke</title>
+      <link>https://aspotic.github.io/tags/smoke/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/smoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>https://aspotic.github.io/tags/water/</link>
+      <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aurora</title>
+      <link>https://aspotic.github.io/tags/aurora/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/aurora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>countryside</title>
+      <link>https://aspotic.github.io/tags/countryside/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/countryside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field</title>
+      <link>https://aspotic.github.io/tags/field/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fog</title>
+      <link>https://aspotic.github.io/tags/fog/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/fog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>northern lights</title>
+      <link>https://aspotic.github.io/tags/northern-lights/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/northern-lights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sky</title>
+      <link>https://aspotic.github.io/tags/sky/</link>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/sky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>strongfield</title>
       <link>https://aspotic.github.io/tags/strongfield/</link>
-      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/strongfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>montana</title>
+      <link>https://aspotic.github.io/tags/montana/</link>
+      <pubDate>Sat, 08 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/montana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mountains</title>
+      <link>https://aspotic.github.io/tags/mountains/</link>
+      <pubDate>Sat, 08 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/mountains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rain</title>
+      <link>https://aspotic.github.io/tags/rain/</link>
+      <pubDate>Sat, 08 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>storm</title>
+      <link>https://aspotic.github.io/tags/storm/</link>
+      <pubDate>Sat, 08 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/storm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>canola</title>
+      <link>https://aspotic.github.io/tags/canola/</link>
+      <pubDate>Fri, 07 May 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/tags/canola/</guid>
       <description></description>
     </item>
     
@@ -89,15 +233,6 @@
     </item>
     
     <item>
-      <title>montana</title>
-      <link>https://aspotic.github.io/tags/montana/</link>
-      <pubDate>Thu, 06 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/montana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>moody</title>
       <link>https://aspotic.github.io/tags/moody/</link>
       <pubDate>Thu, 06 May 2021 01:01:01 +0600</pubDate>
@@ -107,29 +242,11 @@
     </item>
     
     <item>
-      <title>rain</title>
-      <link>https://aspotic.github.io/tags/rain/</link>
-      <pubDate>Thu, 06 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/rain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sign</title>
       <link>https://aspotic.github.io/tags/sign/</link>
       <pubDate>Thu, 06 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/sign/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>storm</title>
-      <link>https://aspotic.github.io/tags/storm/</link>
-      <pubDate>Thu, 06 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/storm/</guid>
       <description></description>
     </item>
     
@@ -170,29 +287,11 @@
     </item>
     
     <item>
-      <title>water</title>
-      <link>https://aspotic.github.io/tags/water/</link>
-      <pubDate>Wed, 05 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/water/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>zoo</title>
       <link>https://aspotic.github.io/tags/zoo/</link>
       <pubDate>Wed, 05 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/zoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>architecture</title>
-      <link>https://aspotic.github.io/tags/architecture/</link>
-      <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     
@@ -229,33 +328,6 @@
       <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
       
       <guid>https://aspotic.github.io/tags/green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>night</title>
-      <link>https://aspotic.github.io/tags/night/</link>
-      <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/night/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>saskatoon</title>
-      <link>https://aspotic.github.io/tags/saskatoon/</link>
-      <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/saskatoon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sky</title>
-      <link>https://aspotic.github.io/tags/sky/</link>
-      <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/tags/sky/</guid>
       <description></description>
     </item>
     
