@@ -13,4 +13,5 @@ tags = ["Photography","countryside", "sky", "saskatchewan", "big muddy", "badlan
 +++
 Muddy road at big muddy
 <!--more-->
+
 Such dark nights down here in south east Saskatchewan!
