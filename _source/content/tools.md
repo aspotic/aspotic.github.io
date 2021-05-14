@@ -2,6 +2,7 @@
 title: "Tools"
 date: 2019-09-23T20:18:00-06:00
 type: page
+draft: true
 ---
 This is a list of the various tools I have found helpful over the years
 

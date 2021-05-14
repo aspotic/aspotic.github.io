@@ -2,6 +2,9 @@
 showonlyimage = false
 draft = false
 image = "img/post/hugo_static_site_generator.svg"
+cover = "/img/post/hugo_static_site_generator.svg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
 date = "2019-09-23T19:41:00+06:00"
 title = "Hosting a Static Site with Hugo"
 weight = 0

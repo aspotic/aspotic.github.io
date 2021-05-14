@@ -1,105 +1,83 @@
 baseurl = "https://aspotic.github.io"
 publishDir = ".."
-title = "Adam Knox"
-author = "Adam Knox"
 languageCode = "en"
-DefaultContentLanguage = "en"
-enableInlineShortcodes = true
-theme = "Blonde"
-enableRobotsTXT = true
+defaultContentLanguage = "en"
+title = "Adam Knox"
+theme = "dream"
 
+# copyright = ""
 
-# Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
-
-# If you're using Google Analytics, you can enable this feature.
 googleAnalytics = "UA-148605526-1"
 
-# Disqus Comment System
-#disqusShortname = ""
+# disqusShortname = ""
+
+enableRobotsTXT = true
+
+paginate = 50
 
 [params]
-# The number of articles to be displayed on a single page.
-paginator_pages = "10"
+  background = "#f7f7f7"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
 
-# Enable this if you want the archive list to be in a drop-down format.
-archive_dropdown = "false"
+  # dark mode
+  defaultDark = true
+  backgroundDark = "black"
+  # backgroundImageDark = "/me/background-dark.jpg"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
 
-# Number of tags to be displayed.
-tagsLimit = 20
+  author = "Adam Knox"
+  # description = ""
+  avatar = "/img/adam_avatar.jpeg"
+  headerTitle = "Adam Knox"
+  motto = "Have a great day!"
+  maxTags = 5
+  maxCategories = 5
 
-  [params.post]
-    # See the Tailwind CSS documentation to set it up.
-    # Recommended settings are h-32 to h-48.
-    # https://tailwindcss.com/docs/height
-    thumbnail_height = "h-auto"
+  # footerBottomText = ""
 
-    # https://tailwindcss.com/docs/width
-    thumbnail_width = "w-1/3"
+  # utterancesRepo = ""
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
 
-  [params.widgets]
-    archives = false
-    categories = true
-    tags = true
-    recentposts = false
-    search = false
+  email = "contact@adamknox.ca"
+  linkedin      = "https://www.linkedin.com/in/adam-knox-4b86787b/"
+  github        = "https://github.com/aspotic"
+  stackoverflow = "https://stackoverflow.com/users/1679299/aspotic"
+  instagram     = "https://www.instagram.com/aspotic/"
+  youtube       = "https://www.youtube.com/channel/UC6ffMUc8CA1MJA3JTsU-ZbA"
+  facebook      = "http://facebook.com/Adam.R.Knox"
+  rss           = true
+  # mastodon = ""
+  # twitter = ""
+  # codepen = ""
 
-# If you're using Yandex.Metrica, you can enable this feature.
-#[params.analytics.yandexmetrica]
-#    enabled = true
-#    tagNumber = ''
+  siteStartYear = 2019
 
-[menu]
+  favicon = "/favicon.ico"
 
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+  # highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  # highlightjsExtraLanguages = ["ocaml"]
+  # highlightjsTheme = "gruvbox-light"
+  # highlightjsThemeDark = "gruvbox-dark"
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
+  # search
+  # enableSearch = true
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 3
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+  # shareInAside = true
 
-[taxonomies]
-category = "categories"
-tag = "tags"
-archive = "archives"
+  # [params.advanced]
+  #   customCSS = ["css/custom.css"]
+  #   customJS = []
 
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
-
-[build]
-  writeStats = true
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"

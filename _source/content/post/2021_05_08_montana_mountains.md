@@ -2,6 +2,9 @@
 showonlyimage = false
 draft = false
 image = "img/post/montana_mountains.jpg"
+cover = "/img/post/montana_mountains.jpg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-08T01:01:01+06:00"
 title = "Montana Mountains"
 weight = 0

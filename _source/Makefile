@@ -26,3 +26,6 @@ serve: clean
 
 update:
 	brew upgrade hugo
+
+post:
+	hugo new post/$(shell date +'%y_%m_%d_.md')

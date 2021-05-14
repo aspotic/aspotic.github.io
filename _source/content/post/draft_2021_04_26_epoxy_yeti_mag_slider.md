@@ -2,6 +2,9 @@
 showonlyimage = false
 draft = true
 image = "img/post/body.svg"
+cover = "/img/post/body.svg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
 date = "2019-09-11T19:13:12+06:00"
 title = "Epoxy Yeti Magslider"
 weight = 0

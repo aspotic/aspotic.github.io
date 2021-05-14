@@ -2,6 +2,9 @@
 showonlyimage = false
 draft = false
 image = "img/post/big_muddy_fields.jpg"
+cover = "/img/post/big_muddy_fields.jpg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-03T01:01:01+06:00"
 title = "Big Muddy Fields"
 weight = 0

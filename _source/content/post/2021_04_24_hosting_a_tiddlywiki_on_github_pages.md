@@ -2,6 +2,9 @@
 showonlyimage = false
 draft = false
 image = "img/post/tiddlywiki.jpg"
+cover = "/img/post/tiddlywiki.jpg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
 date = "2021-04-24T01:01:01+06:00"
 title = "Hosting a TiddlyWiki on GitHub pages"
 weight = 0

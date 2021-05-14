@@ -1,3 +1,6 @@
 [submodule "_source/themes/blonde"]
 	path = _source/themes/blonde
 	url = https://github.com/opera7133/Blonde.git
+[submodule "_source/themes/dream"]
+	path = _source/themes/dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
