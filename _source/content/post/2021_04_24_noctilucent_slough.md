@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-04-24T01:01:01+06:00"
 weight = 0
-categories = ["photography", "art", "travel"]
-tags = ["photography","night", "sky", "clouds", "summer", "color", "light", "awe", "nature", "saskatchewan"]
+categories = ["Photography", "Travel"]
+tags = ["Photography","night", "sky", "clouds", "summer", "color", "light", "awe", "nature", "saskatchewan"]
 +++
 Summer in Saskatchewan is really something.
 <!--more-->

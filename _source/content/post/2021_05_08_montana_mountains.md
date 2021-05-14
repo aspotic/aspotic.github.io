@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-08T01:01:01+06:00"
 weight = 0
-categories = ["photography", "art", "travel"]
-tags = ["photography","countryside", "field", "montana", "mountains", "storm", "rain", "nature", "sky"]
+categories = ["Photography", "Travel"]
+tags = ["Photography","countryside", "field", "montana", "mountains", "storm", "rain", "nature", "sky"]
 +++
 Rural Montana Storm
 <!--more-->

@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-03T01:01:01+06:00"
 weight = 0
-categories = ["photography", "art", "travel"]
-tags = ["photography","countryside", "sky", "saskatchewan", "big muddy", "badlands", "night", "dark", "gravel road", ]
+categories = ["Photography", "Travel"]
+tags = ["Photography","countryside", "sky", "saskatchewan", "big muddy", "badlands", "night", "dark", "gravel road", ]
 +++
 Muddy road at big muddy
 <!--more-->

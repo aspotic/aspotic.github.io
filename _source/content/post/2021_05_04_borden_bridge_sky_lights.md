@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-04T01:01:01+06:00"
 weight = 0
-categories = ["photography", "art", "travel"]
-tags = ["photography","architecture", "sky", "saskatchewan", "saskatoon", "green", "night", "dark", "bridge", "canada", "aurora"]
+categories = ["Photography", "Travel"]
+tags = ["Photography","architecture", "sky", "saskatchewan", "saskatoon", "green", "night", "dark", "bridge", "canada", "aurora"]
 +++
 Land of the Living Skies!
 <!--more-->

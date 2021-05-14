@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2019-09-11T19:13:12+06:00"
 weight = 0
-categories = ["epoxy", "art"]
-tags = ["epoxy", "art", "making", "replacement", "fix", "yeti", "tumbler", "magslider"]
+categories = ["epoxy"]
+tags = ["epoxy", "making", "replacement", "fix", "yeti", "tumbler", "magslider"]
 +++
 
 Lost the magslider for an yeti mug. Decided this would be a good first project for learning epoxy resin art.

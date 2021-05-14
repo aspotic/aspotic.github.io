@@ -8,8 +8,8 @@ author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-10T01:01:01+06:00"
 weight = 0
-categories = ["photography", "art"]
-tags = ["photography","city", "night", "smoke", "mist", "saskatchewan", "saskatoon", "nature", "lights", "architecture", "water"]
+categories = ["Photography"]
+tags = ["Photography","city", "night", "smoke", "mist", "saskatchewan", "saskatoon", "nature", "lights", "architecture", "water"]
 +++
 Heavy smoke hanging over Saskatoon from forest fires
 <!--more-->
