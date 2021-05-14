@@ -1,12 +1,12 @@
 +++
 showonlyimage = false
 draft = false
+title = "Hosting a TiddlyWiki on GitHub pages"
 image = "img/post/tiddlywiki.jpg"
 cover = "/img/post/tiddlywiki.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-04-24T01:01:01+06:00"
-title = "Hosting a TiddlyWiki on GitHub pages"
 weight = 0
 categories = ["Software Dev", "Productivity"]
 tags = ["tiddlywiki","tiddly", "wiki", "github", "github pages", "web hosting", "blog", "productivity", "organization", "encryption"]

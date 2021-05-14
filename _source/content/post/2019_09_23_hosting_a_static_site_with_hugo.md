@@ -1,12 +1,12 @@
 +++
 showonlyimage = false
 draft = false
+title = "Hosting a Static Site with Hugo"
 image = "img/post/hugo_static_site_generator.jpg"
 cover = "/img/post/hugo_static_site_generator.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2019-09-23T19:41:00+06:00"
-title = "Hosting a Static Site with Hugo"
 weight = 0
 categories = ["Software Dev", "Productivity"]
 tags = ["hugo","static site generator", "github", "github pages", "web hosting", "blog", "jekyll", "google appengine", "buttercms", "git", "wordpress"]
