@@ -4,3 +4,9 @@
 [submodule "_source/themes/dream"]
 	path = _source/themes/dream
 	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "_source/themes/autophugo"]
+	path = _source/themes/autophugo
+	url = https://github.com/kc0bfv/autophugo.git
+[submodule "_source/themes/gochowdown"]
+	path = _source/themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git
