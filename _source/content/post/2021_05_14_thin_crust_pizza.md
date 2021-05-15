@@ -3,6 +3,7 @@ showonlyimage = false
 draft = false
 title = "Thin Crust Pizza"
 image = "img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg"
+cover = "/img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-14T11:54:00-06:00"
