@@ -9,6 +9,6 @@ avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-14T11:49:35-06:00"
 weight = 0
 categories = ["Photography"]
-tags = ["Photography","city", "night", "storm", "rain", "saskatchewan", "saskatoon", "nature", "lights", "architecture", "water", "lightning"]
+tags = ["city", "night", "storm", "rain", "saskatchewan", "saskatoon", "nature", "lights", "architecture", "water", "lightning"]
 +++
 Overlooking Saskatoons latest construction projects from the renaissance condo building
