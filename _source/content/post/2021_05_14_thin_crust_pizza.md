@@ -28,50 +28,24 @@ Recipes without the 10000 word essays
 # Instructions
 
 ## Activate the Yeast
-{{< rawhtml >}}
-  <div style="width: 100%; display: block; height: 20rem">
-    <div style="float: left; display: block; width: 65%">
-    <ul>
-        <li>Whisk together stage 1 dough ingredients: yeast(2 tsp), sugar(1 tsp), water@110f(1 cup)</li>
-        <li>Let stage 1 dough ingredients react for 10min</li>
-    <ul>
-    </div>
-    <img src="/img/post/2021_05_14_thin_crust_pizza/1_yeast.jpeg" style="float: right; width: 25%; margin: 3%" />
-  </div>
-{{< /rawhtml >}}
+{{< photolist "/img/post/2021_05_14_thin_crust_pizza/1_yeast.jpeg" >}}
+ * Whisk together stage 1 dough ingredients: yeast(2 tsp), sugar(1 tsp), water@110f(1 cup)
+ * Let stage 1 dough ingredients react for 10min
+{{< /photolist >}}
 
 ## Create a dough ball
-{{< rawhtml >}}
-  <div style="width: 100%; display: block; height: 35rem">
-    <div style="float: left; display: block; width: 65%">
-    <ul>
-        <li>Add stage 2 dough ingredients: salt(1/4 tsp), olive oil(1 tbsp), flour(2 1/2 cups)</li>
-        <li>Knead until you have a uniform ball</li>
-        <ul><li>I use mixer with a dough hook on low</li></ul>
-    <ul>
-    </div>
-    <div style="float: right; width: 25%; margin: 3%">
-        <img src="/img/post/2021_05_14_thin_crust_pizza/2_dough_ingredients.jpeg" /><br />
-        <img src="/img/post/2021_05_14_thin_crust_pizza/3_dough_ball.jpeg" />
-    </div>
-  </div>
-{{< /rawhtml >}}
+{{< photolist "/img/post/2021_05_14_thin_crust_pizza/3_dough_ball.jpeg" >}}
+* Add stage 2 dough ingredients: salt(1/4 tsp), olive oil(1 tbsp), flour(2 1/2 cups)
+* Knead until you have a uniform ball
+ * I use mixer with a dough hook on low
+{{< /photolist >}}
 
 ## Proof
-{{< rawhtml >}}
-  <div style="width: 100%; display: block; height: 20rem">
-    <div style="float: left; display: block; width: 65%">
-    <ul>
-        <li>place in greased bowl with air tight cover and proof for 30min</li>
-        <li><ul>
-            <li>cover is to hold in moisture</li>
-            <li>I proof using the proof setting on my oven</li>
-        </ul></li>
-    <ul>
-    </div>
-    <img src="/img/post/2021_05_14_thin_crust_pizza/4_risen_dough.jpeg" style="float: right; width: 25%; margin: 3%" />
-  </div>
-{{< /rawhtml >}}
+{{< photolist "/img/post/2021_05_14_thin_crust_pizza/4_risen_dough.jpeg" >}}
+* place in greased bowl with air tight cover and proof for 30min
+ * cover is to hold in moisture
+ * I proof using the proof setting on my oven
+{{< /photolist >}}
 
 ## Build Pizzas
 * roll out dough into whatever sizes you want
@@ -79,23 +53,12 @@ Recipes without the 10000 word essays
 * add your toppings
 
 ## Cook Pizzas
-{{< rawhtml >}}
-  <div style="width: 100%; display: block; height: 20rem">
-    <div style="float: left; display: block; width: 65%">
-    <ul>
-        <li>set oven to broil high and rack to the top</li>
-        <li>heat a cast iron pan on the stove</li>
-        <li>put some flour on your pan</li>
-        <li>put pizza in pan and cook for a bit</li>
-        <li><ul>
-            <li>time depends on how hot your pan is, about a minute for me</li>
-        </ul></li>
-        <li>place pan in oven and continue cooking</li>
-        <li><ul>
-            <li>time is about 3 minutes, can take out and look to see if the top looks good</li>
-        </ul></li>
-    <ul>
-    </div>
-    <img src="/img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg" style="float: right; width: 25%; margin: 3%" />
-  </div>
-{{< /rawhtml >}}
+{{< photolist "/img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg" >}}
+* set oven to broil high and rack to the top
+* heat a cast iron pan on the stove
+* put some flour on your pan
+* put pizza in pan and cook for a bit
+ * time depends on how hot your pan is, about a minute for me
+* place pan in oven and continue cooking
+ * time is about 3 minutes, can take out and look to see if the top looks good
+{{< /photolist >}}
