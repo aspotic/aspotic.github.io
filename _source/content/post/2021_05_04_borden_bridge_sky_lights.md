@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Borden Bridge Sky Lights"
-image = "img/post/borden_bridge_sky_lights.jpg"
-cover = "/img/post/borden_bridge_sky_lights.jpg"
+image = "img/post/photography/borden_bridge_sky_lights.jpg"
+cover = "/img/post/photography/borden_bridge_sky_lights.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-04T01:01:01+06:00"

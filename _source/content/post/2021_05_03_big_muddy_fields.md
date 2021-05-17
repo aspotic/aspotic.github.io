@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Big Muddy Fields"
-image = "img/post/big_muddy_fields.jpg"
-cover = "/img/post/big_muddy_fields.jpg"
+image = "img/post/photography/big_muddy_fields.jpg"
+cover = "/img/post/photography/big_muddy_fields.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-03T01:01:01+06:00"

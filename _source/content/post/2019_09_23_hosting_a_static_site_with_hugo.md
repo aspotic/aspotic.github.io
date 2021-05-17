@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Hosting a Static Site with Hugo"
-image = "img/post/hugo_static_site_generator.jpg"
-cover = "/img/post/hugo_static_site_generator.jpg"
+image = "img/post/cover/hugo_static_site_generator.jpg"
+cover = "/img/post/cover/hugo_static_site_generator.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2019-09-23T19:41:00+06:00"

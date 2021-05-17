@@ -9,7 +9,7 @@ avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-14T11:54:00-06:00"
 weight = 0
 categories = ["Cooking", "Recipe"]
-tags = ["pizza","bread", "dough", "italian", "cooking", "food", "recipe"]
+tags = ["pizza","bread", "dough", "italian", "cooking", "food", "recipe", "cheese"]
 +++
 Recipes without the 10000 word essays
 <!--more-->

@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Montana Target Practice"
-image = "img/post/montana_target_practice.jpg"
-cover = "/img/post/montana_target_practice.jpg"
+image = "img/post/photography/montana_target_practice.jpg"
+cover = "/img/post/photography/montana_target_practice.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-06T01:01:01+06:00"

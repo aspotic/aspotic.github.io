@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Foggy Back Road"
-image = "img/post/foggy_back_road.jpg"
-cover = "/img/post/foggy_back_road.jpg"
+image = "img/post/photography/foggy_back_road.jpg"
+cover = "/img/post/photography/foggy_back_road.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-09T01:01:01+06:00"

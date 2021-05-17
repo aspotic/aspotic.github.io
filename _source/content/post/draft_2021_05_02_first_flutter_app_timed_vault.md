@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = true
 title = "First Flutter App - Timed Vault"
-image = "img/post/flutter.png"
-cover = "/img/post/flutter.png"
+image = "img/post/cover/flutter.png"
+cover = "/img/post/cover/flutter.png"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-02T19:13:12+06:00"

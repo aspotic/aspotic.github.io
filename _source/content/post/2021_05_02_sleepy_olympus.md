@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Sleepy Olympus"
-image = "img/post/sleepy_olympus.jpg"
-cover = "/img/post/sleepy_olympus.jpg"
+image = "img/post/photography/sleepy_olympus.jpg"
+cover = "/img/post/photography/sleepy_olympus.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-02T01:01:01+06:00"
