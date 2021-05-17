@@ -1,81 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>night on Adam Knox</title>
+    <title>Night on Adam Knox</title>
     <link>https://aspotic.github.io/tags/night/</link>
-    <description>Recent content in night on Adam Knox</description>
+    <description>Recent content in Night on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 May 2021 11:49:35 -0600</lastBuildDate><atom:link href="https://aspotic.github.io/tags/night/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 07:49:35 -0600</lastBuildDate><atom:link href="https://aspotic.github.io/tags/night/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleeping Scraper</title>
+      <link>https://aspotic.github.io/post/photography/2021_05_17_scraper/</link>
+      <pubDate>Mon, 17 May 2021 07:49:35 -0600</pubDate>
+      
+      <guid>https://aspotic.github.io/post/photography/2021_05_17_scraper/</guid>
+      <description>Scraping out in the middle of nowhere</description>
+    </item>
+    
     <item>
       <title>Renaissance Storm</title>
-      <link>https://aspotic.github.io/post/2021_05_14_renaissance_storm/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_14_renaissance_storm/</link>
       <pubDate>Fri, 14 May 2021 11:49:35 -0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_14_renaissance_storm/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_14_renaissance_storm/</guid>
       <description>Overlooking Saskatoons latest construction projects from the renaissance condo building</description>
     </item>
     
     <item>
       <title>Graveyard</title>
-      <link>https://aspotic.github.io/post/2021_05_13_graveyard/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_13_graveyard/</link>
       <pubDate>Thu, 13 May 2021 10:41:05 -0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_13_graveyard/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_13_graveyard/</guid>
       <description>Rural winter graveyard illuminated by aurora</description>
     </item>
     
     <item>
       <title>Smoky College Drive Bridge</title>
-      <link>https://aspotic.github.io/post/2021_05_10_smoky_college_drive_bridge/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_10_smoky_college_drive_bridge/</link>
       <pubDate>Mon, 10 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_10_smoky_college_drive_bridge/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_10_smoky_college_drive_bridge/</guid>
       <description>&lt;p&gt;Heavy smoke hanging over Saskatoon from forest fires&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Foggy Back Road</title>
-      <link>https://aspotic.github.io/post/2021_05_09_foggy_back_road/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_09_foggy_back_road/</link>
       <pubDate>Sun, 09 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_09_foggy_back_road/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_09_foggy_back_road/</guid>
       <description>&lt;p&gt;Mist hanging above the ground and aurora hanging in the sky&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Borden Bridge Sky Lights</title>
-      <link>https://aspotic.github.io/post/2021_05_04_borden_bridge_sky_lights/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_04_borden_bridge_sky_lights/</link>
       <pubDate>Tue, 04 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_04_borden_bridge_sky_lights/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_04_borden_bridge_sky_lights/</guid>
       <description>&lt;p&gt;Land of the Living Skies!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Big Muddy Fields</title>
-      <link>https://aspotic.github.io/post/2021_05_03_big_muddy_fields/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_03_big_muddy_fields/</link>
       <pubDate>Mon, 03 May 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_03_big_muddy_fields/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_03_big_muddy_fields/</guid>
       <description>&lt;p&gt;Muddy road at big muddy&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Yellowstone Lake</title>
-      <link>https://aspotic.github.io/post/2021_05_01_yellowstone_lake_sky/</link>
+      <link>https://aspotic.github.io/post/photography/2021_05_01_yellowstone_lake_sky/</link>
       <pubDate>Sat, 01 May 2021 12:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_05_01_yellowstone_lake_sky/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_05_01_yellowstone_lake_sky/</guid>
       <description>&lt;p&gt;Air glow and the milky way above Yellowstone Lake&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Noctilucent Slough</title>
-      <link>https://aspotic.github.io/post/2021_04_24_noctilucent_slough/</link>
+      <link>https://aspotic.github.io/post/photography/2021_04_24_noctilucent_slough/</link>
       <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
       
-      <guid>https://aspotic.github.io/post/2021_04_24_noctilucent_slough/</guid>
+      <guid>https://aspotic.github.io/post/photography/2021_04_24_noctilucent_slough/</guid>
       <description>&lt;p&gt;Summer in Saskatchewan is really something.&lt;/p&gt;</description>
     </item>
     
