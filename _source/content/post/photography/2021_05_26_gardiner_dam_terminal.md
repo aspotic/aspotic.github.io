@@ -1,0 +1,13 @@
++++
+showonlyimage = false
+draft = false
+title = "Gardiner Dam Terminal"
+image = "img/post/photography/2021_05/gardiner_dam_terminal.jpg"
+cover = "/img/post/photography/2021_05/gardiner_dam_terminal.jpg"
+author = "Adam Knox"
+avatar = "/img/adam_avatar.jpeg"
+date = "2021-05-26T00:01:01-06:00"
+weight = 0
+categories = ["Photography"]
+tags = ["Countryside", "Engineering", "Canada", "Saskatchewan", "Grain Terminal", "Night", "Lighting", "Dark"]
++++
