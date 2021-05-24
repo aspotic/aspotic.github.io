@@ -1,4 +1,4 @@
-baseurl = "https://aspotic.github.io"
+baseurl = "https://adamknox.ca"
 publishDir = ".."
 languageCode = "en"
 defaultContentLanguage = "en"

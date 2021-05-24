@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Adam Knox</title>
-    <link>https://aspotic.github.io/archives/</link>
+    <link>https://adamknox.ca/archives/</link>
     <description>Recent content in Archives on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://aspotic.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://adamknox.ca/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

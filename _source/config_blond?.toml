@@ -1,4 +1,4 @@
-baseurl = "https://aspotic.github.io"
+baseurl = "https://adamknox.ca"
 publishDir = ".."
 title = "Adam Knox"
 theme = "blonde"
@@ -89,7 +89,7 @@ paginate = 10 #frontpage pagination
   facebook      = "http://facebook.com/Adam.R.Knox"
   rss           = true
 
-# baseurl = "https://aspotic.github.io/"
+# baseurl = "https://adamknox.ca/"
 # publishDir = "docs"
 # title = "Adam Knox"
 # theme = "nederburg"
