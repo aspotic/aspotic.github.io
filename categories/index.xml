@@ -26,20 +26,20 @@
     </item>
     
     <item>
-      <title>Software Dev</title>
-      <link>https://aspotic.github.io/categories/software-dev/</link>
-      <pubDate>Sat, 22 May 2021 19:13:12 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/categories/software-dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recipe</title>
       <link>https://aspotic.github.io/categories/recipe/</link>
       <pubDate>Tue, 18 May 2021 01:01:00 -0600</pubDate>
       
       <guid>https://aspotic.github.io/categories/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Dev</title>
+      <link>https://aspotic.github.io/categories/software-dev/</link>
+      <pubDate>Sat, 24 Apr 2021 01:01:01 +0600</pubDate>
+      
+      <guid>https://aspotic.github.io/categories/software-dev/</guid>
       <description></description>
     </item>
     

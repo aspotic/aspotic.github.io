@@ -6,16 +6,7 @@
     <description>Recent content in Software Dev on Adam Knox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 May 2021 19:13:12 +0600</lastBuildDate><atom:link href="https://aspotic.github.io/categories/software-dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Flutter App - Timed Vault</title>
-      <link>https://aspotic.github.io/post/software_dev/draft_2021_05_02_first_flutter_app_timed_vault/</link>
-      <pubDate>Sat, 22 May 2021 19:13:12 +0600</pubDate>
-      
-      <guid>https://aspotic.github.io/post/software_dev/draft_2021_05_02_first_flutter_app_timed_vault/</guid>
-      <description>&lt;p&gt;Testing out flutter by building a timed password vault for locking down phone app access&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 24 Apr 2021 01:01:01 +0600</lastBuildDate><atom:link href="https://aspotic.github.io/categories/software-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hosting a TiddlyWiki on GitHub pages</title>
       <link>https://aspotic.github.io/post/software_dev/2021_04_24_hosting_a_tiddlywiki_on_github_pages/</link>
