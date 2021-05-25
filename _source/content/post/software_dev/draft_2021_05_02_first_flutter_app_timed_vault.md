@@ -6,7 +6,7 @@ image = "img/post/cover/flutter.png"
 cover = "/img/post/cover/flutter.png"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
-date = "2021-05-22T19:13:12+06:00"
+date = "2021-05-25T00:01:01+06:00"
 weight = 0
 categories = ["Software Dev"]
 tags = ["Flutter", "Software", "Mobile", "Programming", "Dev", "Development", "Web", "Dart", "Language", "Productivity"]
@@ -49,4 +49,18 @@ to make it work for the web at which point
 
 works to get the hello world service up.
 
-## 
+## Figure out UI design
+
+### Select Components
+Flutter comes with many UI widgets, and has a [catalog|https://flutter.dev/docs/development/ui/widgets] that lists them out. These widgets nest into each other to build out the UI, with each being configurable to adjust design and interaction elements. In my case, I just need a date/time picker and elevatedButton for generating a new code that will stay hidden until the submitted date/time, and a list of existing codes displayed on cards that may or may not be censored. The code should also stay visible for 5 minutes after initial creation. I used the material gallery examples for the date and time pickers.
+
+### Lay out Components
+Flutter has a number of [layout widgets|https://flutter.dev/docs/development/ui/widgets/layout] than can be used for placing the components. Organization widgets that worked for me were a combination of Flexible, Column, Row, and ListView. To get them lookin nicely, mainAxisAlignment set too MainAxisAlignment.spaceEvenly worked for me.
+
+### Do things
+So the UI is there, but it doesn't do anything yet. For that I'll need to wire up the submit button, list, and set a timer up for hiding the data.
+
+### Save things
+This app will be an awful idea if the data doesn't persist somewhere, so now the functional UI needs to be set up to interact with the persistent datastore.
+
+### Create Some Tests
