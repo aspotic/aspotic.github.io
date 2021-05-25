@@ -14,34 +14,34 @@ tags = ["Desert","Snack", "Cold", "Sherbet", "Fruit", "Food", "Recipe", "Blood O
 Recipes without the 10000 word essays
 <!--more-->
 
-# Ingredients
+## Ingredients
 
 {{< photolist "/img/post/2021_05_18_blood_orange_sherbet/1_ingredients.jpg" >}}
-## Juice Ingredients
-### Stage 1
+### Juice Ingredients
+#### Stage 1
 * Fresh Blood Orange Juice - 2 cups
 * Orange Zest - 1 tbsp (finely chopped)
 * Sugar - 2/3 cup
-### Stage 2
+#### Stage 2
 * Milk - 1/2 cup
-## Whipped Cream Ingredients
+### Whipped Cream Ingredients
 * Cream - 1/2 cup
 * Sugar - 1/3 cup
 {{< /photolist >}}
 
-# Instructions
+## Instructions
 {{< photolist "/img/post/2021_05_18_blood_orange_sherbet/2_mix_juice.jpg" >}}
 * Whisk together stage 1 juice ingredients
- * Fresh Blood Orange Juice - 2 cups
- * Orange Zest - 1 tbsp (finely chopped)
- * Sugar - 2/3 cup
+  * Fresh Blood Orange Juice - 2 cups
+  * Orange Zest - 1 tbsp (finely chopped)
+  * Sugar - 2/3 cup
 * Mix the milk into the juice
 {{< /photolist >}}
 
 {{< photolist "/img/post/2021_05_18_blood_orange_sherbet/3_whip_cream.jpg" >}}
 * Whip together the whipped cream ingredients until soft peaks form
- * Cream - 1/2 cup
- * Sugar - 1/3 cup
+  * Cream - 1/2 cup
+  * Sugar - 1/3 cup
 {{< /photolist >}}
 
 {{< photolist "/img/post/2021_05_18_blood_orange_sherbet/4_fold_in_whipped_cream.jpg" >}}

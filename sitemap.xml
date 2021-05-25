@@ -2,13 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adamknox.ca/</loc>
-    <lastmod>2021-05-24T00:01:01-06:00</lastmod>
+    <loc>https://adamknox.ca/post/recipes/2021/05/24_salted_caramel/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
   </url><url>
-    <loc>https://adamknox.ca/tags/arizona/</loc>
-    <lastmod>2021-05-24T00:01:01-06:00</lastmod>
+    <loc>https://adamknox.ca/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/candy/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/caramel/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
   </url><url>
     <loc>https://adamknox.ca/categories/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/cream/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/desert/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/food/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/post/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/recipe/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/categories/recipe/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/snack/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/sugar/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/</loc>
+    <lastmod>2021-05-24T01:01:00-06:00</lastmod>
+  </url><url>
+    <loc>https://adamknox.ca/tags/arizona/</loc>
     <lastmod>2021-05-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>https://adamknox.ca/tags/chiricahua-national-monument/</loc>
@@ -38,13 +74,7 @@
     <loc>https://adamknox.ca/tags/plant/</loc>
     <lastmod>2021-05-24T00:01:01-06:00</lastmod>
   </url><url>
-    <loc>https://adamknox.ca/post/</loc>
-    <lastmod>2021-05-24T00:01:01-06:00</lastmod>
-  </url><url>
     <loc>https://adamknox.ca/tags/rock-pillars/</loc>
-    <lastmod>2021-05-24T00:01:01-06:00</lastmod>
-  </url><url>
-    <loc>https://adamknox.ca/tags/</loc>
     <lastmod>2021-05-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>https://adamknox.ca/categories/travel/</loc>
@@ -155,15 +185,6 @@
     <loc>https://adamknox.ca/tags/cold/</loc>
     <lastmod>2021-05-18T01:01:00-06:00</lastmod>
   </url><url>
-    <loc>https://adamknox.ca/tags/cream/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
-    <loc>https://adamknox.ca/tags/desert/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
-    <loc>https://adamknox.ca/tags/food/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
     <loc>https://adamknox.ca/tags/fruit/</loc>
     <lastmod>2021-05-18T01:01:00-06:00</lastmod>
   </url><url>
@@ -173,16 +194,7 @@
     <loc>https://adamknox.ca/tags/milk/</loc>
     <lastmod>2021-05-18T01:01:00-06:00</lastmod>
   </url><url>
-    <loc>https://adamknox.ca/tags/recipe/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
-    <loc>https://adamknox.ca/categories/recipe/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
     <loc>https://adamknox.ca/tags/sherbet/</loc>
-    <lastmod>2021-05-18T01:01:00-06:00</lastmod>
-  </url><url>
-    <loc>https://adamknox.ca/tags/snack/</loc>
     <lastmod>2021-05-18T01:01:00-06:00</lastmod>
   </url><url>
     <loc>https://adamknox.ca/tags/boating/</loc>
