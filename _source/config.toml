@@ -13,7 +13,7 @@ googleAnalytics = "UA-148605526-1"
 
 enableRobotsTXT = true
 
-paginate = 50
+paginate = 24
 
 [params]
   background = "#f7f7f7"
