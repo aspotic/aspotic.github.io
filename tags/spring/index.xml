@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spring on Adam Knox</title>
+    <link>https://adamknox.ca/tags/spring/</link>
+    <description>Recent content in Spring on Adam Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 May 2021 00:01:01 -0600</lastBuildDate><atom:link href="https://adamknox.ca/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mt. Washburn</title>
+      <link>https://adamknox.ca/post/photography/2021/05/29/</link>
+      <pubDate>Sat, 29 May 2021 00:01:01 -0600</pubDate>
+      
+      <guid>https://adamknox.ca/post/photography/2021/05/29/</guid>
+      <description>&lt;p&gt;Highly recommend the hike up Mt. Washburn. Windy, but what a view!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
