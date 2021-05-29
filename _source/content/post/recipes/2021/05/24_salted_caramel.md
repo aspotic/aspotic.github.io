@@ -14,7 +14,6 @@ Recipes without the 10000 word essays
 <!--more-->
 
 ## Ingredients
-
 {{< photolist "/img/post/2021_05_24_salted_caramel/1_ingredients.jpg" >}}
 * Sugar - 1 cup
 * Salted Butter @ room temp. - 6 tbsp
