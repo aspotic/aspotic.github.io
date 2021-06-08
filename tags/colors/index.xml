@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colors on Adam Knox</title>
+    <link>https://adamknox.ca/tags/colors/</link>
+    <description>Recent content in Colors on Adam Knox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Jun 2021 00:01:01 -0600</lastBuildDate><atom:link href="https://adamknox.ca/tags/colors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Living Skies</title>
+      <link>https://adamknox.ca/post/photography/2021/06/06/</link>
+      <pubDate>Sun, 06 Jun 2021 00:01:01 -0600</pubDate>
+      
+      <guid>https://adamknox.ca/post/photography/2021/06/06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SuperDARN Flowers</title>
+      <link>https://adamknox.ca/post/photography/2021/06/03/</link>
+      <pubDate>Thu, 03 Jun 2021 00:01:01 -0600</pubDate>
+      
+      <guid>https://adamknox.ca/post/photography/2021/06/03/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
