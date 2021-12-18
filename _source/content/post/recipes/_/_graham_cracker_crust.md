@@ -11,46 +11,14 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
 
 
-Blend ingredients
+Mix Ground Graham cracker(1 1/2 cups), melted butter(6tbsp), sugar(1/3cup), and cinnamon
 
-Sous vide 1hr @ 149f (up to 180f for more creamy but eggy result) and agetate for even cooking
-
-Cool as fast as possible
-
-Let rest min. 4 hrs in fridge
-(Also pre freeze a pan and containers)
-
-Pre-chill ice cream maker & blend mixture again
-
-Mix/chill mixture in ice cream maker ~18min (try to keep it from freezing to sides)
-
-Place mixture in pre-frozen pan and put in freezer to finish freezing (as fast as possible, do it outside if it's really cold)
-
-Scrape ice cream into individual portioned containers
-
-
-
-
-https://recipes.anovaculinary.com/recipe/sous-vide-strawberry-ice-cream
-- maybe leave our cinnamon
-- bake strawberries to remove moisture? (Or let the strawberry mixture simmer for a bit) has too much water which makes it not so creamy
-
-
-https://www.myketokitchen.com/keto-recipes/keto-ice-cream-low-carb-chocolate/
- - 
-
-
-
-https://www.chefsteps.com/activities/this-frozen-custard-is-one-smooth-sonuvagun
-- 
-
-
-
+Form into shapes in pan and bake 375f for 7min
 
 
 

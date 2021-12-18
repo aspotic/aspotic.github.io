@@ -11,7 +11,7 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert","Snack", "Cold", "Sherbet", "Fruit", "Food", "Recipe", "Blood Orange", "Milk", "Cream", "Ice Cream"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
 ## Ingredients

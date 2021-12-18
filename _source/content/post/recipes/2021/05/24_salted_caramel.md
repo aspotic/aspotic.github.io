@@ -10,7 +10,7 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert","Snack", "Caramel", "Sugar", "Candy", "Food", "Recipe", "Cream"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
 ## Ingredients

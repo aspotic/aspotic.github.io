@@ -11,7 +11,7 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
 https://www.allrecipes.com/recipe/24956/caramels-i/

@@ -11,7 +11,7 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Pizza","Bread", "Dough", "Italian", "Cooking", "Food", "Recipe", "Rosemary", "Garlic", "Snack", "Cheese"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 ## Ingredients
 

@@ -11,31 +11,49 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
-Set your sous-vide cooker to 140°F (60°C), place your sealed ham into the water bath – it’s fine if it’s still frozen – and give the meat enough time to get up to temperature.  For our old-fashioned ham, cooking from frozen, it will typically take around 2 hours to get the internal temperature up to 140°F (60°C) throughout.  You can stop here, or hold it at this temperature.  The longer it cooks, the more the connective tissue will break down, and the more the meat will be falling-apart tender.
 
 
-After slow-cooking, the meat needs to rest at room temperature for a minimum of 10-15 minutes, and as much as an hour, to reabsorb its juices back into the muscle fibres.  If you don’t rest your ham, those juices will run out over your cutting board.  It’s a lot more delicious to keep them inside the meat!
+Blend ingredients
 
-While your ham is resting, use a sharp knife to score any outer fat in a criss-cross pattern, without cutting all the way through into the meat.  Dry off the outer surfaces thoroughly with a lint-free tea towel — moisture is the enemy of browning.  Then liberally apply your glaze all over.
+Sous vide 1hr @ 149f (up to 180f for more creamy but eggy result) and agetate for even cooking
 
-You can be as creative as you like with your glaze ingredients, but here are a few different recipes you can try:
+Cool as fast as possible
 
-    Marmalade Glaze:  Mix 1/2 cup marmalade with 1/4 cup dark rum.  Add the fine zest of one orange, 1 tsp dried sage, and 1/2 tsp dried ginger.
-    Honey Dijon Glaze:  Mix 1/4 cup honey and 1 Tbsp dijon mustard with 1/4 cup brandy.  Add 1/2 tsp coarse ground pepper.
-    Savoury Glaze:  To 1/4 cup dark rum, add 3 minced cloves of garlic, 3 puréed anchovies, 1/2 tsp coarse ground pepper, 1/4 tsp ground star anise, and 1/8 tsp ground cloves.
-Coat your ham thoroughly with your glaze.  It’s helpful to use a brush, and keep reapplying the glaze as the alcohol evaporates off.
+Let rest min. 4 hrs in fridge
+(Also pre freeze a pan and containers)
 
-Meanwhile, pre-heat your oven to 500°F (260°C).
-Step 3.  Brown & Crisp
+Pre-chill ice cream maker & blend mixture again
 
-Order your organic fresh country hams online from Whispering Meadows, with delivery to your door.The last step, just before serving, is to brown your ham in a very hot oven.  This gives it a dark, crispy crust, without overcooking any of the interior.
+Mix/chill mixture in ice cream maker ~18min (try to keep it from freezing to sides)
 
-You’ll get the best crisping if you place your ham directly on a middle oven rack, with a tray underneath to catch drippings.  Turn on convection if you have it.
+Place mixture in pre-frozen pan and put in freezer to finish freezing (as fast as possible, do it outside if it's really cold)
 
-Keep a close eye on the ham — you want to bring the outer surface to a deep mahogany colour, without letting any of it go black.  In a 500°F oven with convection, this will take around 10-12 minutes.
+Scrape ice cream into individual portioned containers
+
+
+
+
+https://recipes.anovaculinary.com/recipe/sous-vide-strawberry-ice-cream
+- maybe leave our cinnamon
+- bake strawberries to remove moisture? (Or let the strawberry mixture simmer for a bit) has too much water which makes it not so creamy
+
+
+https://www.myketokitchen.com/keto-recipes/keto-ice-cream-low-carb-chocolate/
+ - 
+
+
+
+https://www.chefsteps.com/activities/this-frozen-custard-is-one-smooth-sonuvagun
+- 
+
+
+
+
+
+
 
 ## Ingredients
 {{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/01_dry_ingredients.jpg" >}}

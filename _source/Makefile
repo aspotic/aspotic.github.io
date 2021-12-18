@@ -1,16 +1,12 @@
-all: install build save
+HUGO ?= docker run --rm -it -v $(PWD):/src --workdir /src -p 1313:1313 klakegg/hugo:latest
 
-.hugo:
-	brew install hugo
-	touch .hugo
+all: build save
 
 clean:
 	rm -rf docs
 
-install: .hugo
-
 build: clean
-	hugo
+	$(HUGO)
 
 save:
 	git pull	
@@ -19,13 +15,10 @@ save:
 	git push
 
 dev: clean
-	hugo server -D
+	$(HUGO) server -D
 
 serve: clean
-	hugo server
-
-update:
-	brew upgrade hugo
+	$(HUGO) server
 
 post:
-	hugo new post/$(shell date +'%y_%m_%d_.md')
+	$(HUGO) new post/$(shell date +'%y_%m_%d_.md')

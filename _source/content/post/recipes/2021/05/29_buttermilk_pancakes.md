@@ -11,7 +11,6 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
 <!--more-->
 
 ## Ingredients
@@ -32,7 +31,7 @@ Recipes without the 10000 word essays
 
 {{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/02_wet_ingredients.jpg" >}}
 ### Wet Ingredients
-* Eggs - 2 Largs
+* Eggs - 2 Large
 * Buttermilk - 1 3/4 cups
 * Selter or Club soda @ fridge temp. - 1/2 cup
   * can be flavoured

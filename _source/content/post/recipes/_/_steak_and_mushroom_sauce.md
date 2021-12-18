@@ -11,21 +11,21 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
 
-Fresh rosemary on each breast
-Salt
-Pepper
-Ground coriander seeds
-Garlic piece for each breast
-Olive oil
-Montreal chicken spice
+-Warm steak to room temp. While marinating. Poke holes to help marinade get into steak
+-put crimini mushrooms (cut fairly large) in tinfoil with sauce
+-throw mushrooms on top burner
+-add marinade to steak while on BBQ
+- flip steak and move mushrooms to bottom rack
+-eat
+
+?add flour to mushrooms to thicken sauce?
 
 
 
-140f sous vide
 
 ## Ingredients
 {{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/01_dry_ingredients.jpg" >}}

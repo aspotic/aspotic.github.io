@@ -11,18 +11,23 @@ weight = 0
 categories = ["Recipe"]
 tags = ["Desert", "Breakfast", "Sugar", "Food", "Recipe"]
 +++
-Recipes without the 10000 word essays
+
 <!--more-->
 
-
--Warm steak to room temp. While marinating. Poke holes to help marinade get into steak
--put crimini mushrooms (cut fairly large) in tinfoil with sauce
--throw mushrooms on top burner
--add marinade to steak while on BBQ
-- flip steak and move mushrooms to bottom rack
--eat
-
-?add flour to mushrooms to thicken sauce?
+INGREDIENTS
+1 pound (500 g) asparagus spears, woody ends removed
+3 tablespoons olive oil
+1 tablespoon minced garlic (or 4 cloves garlic, minced)
+3/4 teaspoon Kosher salt
+1/4 teaspoon fresh cracked black pepper
+1 1/4 cup shredded mozzarella cheese
+INSTRUCTIONS
+Preheat oven to 425°F (220°C). Lightly grease a baking sheet with nonstick cooking oil spray. 
+Arrange asparagus on baking sheet. Set aside.
+In a small bowl mix together olive oil, garlic, salt and pepper. Drizzle the oil mixture over the asparagus and toss to evenly coat.
+Bake for 10-15 minutes until vibrant and just beginning to get tender.
+Remove from oven and top with the mozzarella cheese. Return to oven and broil (or grill) until the cheese melts and becomes golden (about 4-5 minutes).
+Adjust salt and pepper, if needed. Serve immediately.
 
 
 
