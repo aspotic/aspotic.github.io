@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 title = "Thin Crust Pizza"
-image = "img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg"
-cover = "/img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg"
+image = "img/post/recipes/2021/05_14_thin_crust_pizza/5_pizza.jpeg"
+cover = "/img/post/recipes/2021/05_14_thin_crust_pizza/5_pizza.jpeg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-14T11:54:00-06:00"
@@ -33,19 +33,19 @@ Recipes without the 10000 word essays
 ## Instructions
 
 ### Activate the Yeast
-{{< photolist "/img/post/2021_05_14_thin_crust_pizza/1_yeast.jpeg" >}}
+{{< photolist "/img/post/recipes/2021/05_14_thin_crust_pizza/1_yeast.jpeg" >}}
 * Whisk together stage 1 dough ingredients: yeast(2 tsp), sugar(1 tsp), water@110f(1 cup)
 * Let stage 1 dough ingredients react for 10min
 {{< /photolist >}}
 
 ### Create a dough ball
-{{< photolist "/img/post/2021_05_14_thin_crust_pizza/3_dough_ball.jpeg" >}}
+{{< photolist "/img/post/recipes/2021/05_14_thin_crust_pizza/3_dough_ball.jpeg" >}}
 * Add stage 2 dough ingredients: salt(1/4 tsp), olive oil(1 tbsp), flour(2 1/2 cups)
 * Knead until you have a uniform ball
  * I use mixer with a dough hook on low
 {{< /photolist >}}
 
-{{< photolist "/img/post/2021_05_14_thin_crust_pizza/4_risen_dough.jpeg" >}}
+{{< photolist "/img/post/recipes/2021/05_14_thin_crust_pizza/4_risen_dough.jpeg" >}}
 ### Proof
 * place in greased bowl with air tight cover and proof for 30min
   * cover is to hold in moisture
@@ -58,7 +58,7 @@ Recipes without the 10000 word essays
 * add your toppings
 
 ### Cook Pizzas
-{{< photolist "/img/post/2021_05_14_thin_crust_pizza/5_pizza.jpeg" >}}
+{{< photolist "/img/post/recipes/2021/05_14_thin_crust_pizza/5_pizza.jpeg" >}}
 * set oven to broil high and rack to the top
 * heat a cast iron pan on the stove
 * put some flour on your pan

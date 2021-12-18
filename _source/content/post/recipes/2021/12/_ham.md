@@ -3,7 +3,7 @@
 showonlyimage = false
 draft = true
 title = "Buttermilk Pancakes"
-cover = "/img/post/2021_05_29_buttermilk_pancakes/09_finished.jpg"
+cover = "/img/post/recipes/2021/05_29_buttermilk_pancakes/09_finished.jpg"
 author = "Adam Knox"
 avatar = "/img/adam_avatar.jpeg"
 date = "2021-05-29T01:01:00-06:00"
@@ -38,7 +38,7 @@ You’ll get the best crisping if you place your ham directly on a middle oven r
 Keep a close eye on the ham — you want to bring the outer surface to a deep mahogany colour, without letting any of it go black.  In a 500°F oven with convection, this will take around 10-12 minutes.
 
 ## Ingredients
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/01_dry_ingredients.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/01_dry_ingredients.jpg" >}}
 ### Toppings
 * Maple syrup
 * Birch syrup
@@ -53,7 +53,7 @@ Keep a close eye on the ham — you want to bring the outer surface to a deep ma
 * Kosher salt - 1 1/4tsp
 {{< /photolist >}}
 
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/02_wet_ingredients.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/02_wet_ingredients.jpg" >}}
 ### Wet Ingredients
 * Eggs - 2 Largs
 * Buttermilk - 1 3/4 cups
@@ -67,7 +67,7 @@ Keep a close eye on the ham — you want to bring the outer surface to a deep ma
 ## Instructions
 
 ### Combine Ingredients
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/03_batter.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/03_batter.jpg" >}}
 #### Combine Dry Ingredients
 * Whisk flour (2 cups), sugar (3 tbsp), baking powder (1 1/4 tsp), baking soda (1 1/4 tsp), and salt (1 1/4 tsp) in a large bowl.
 
@@ -81,7 +81,7 @@ Keep a close eye on the ham — you want to bring the outer surface to a deep ma
 {{< /photolist >}}
 
 ### Cook
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/06_both_sides_cooking.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/06_both_sides_cooking.jpg" >}}
 * Heat a small non-stick pan on medium (6 on induction oven)
   * For cooking the first side
 * Heat a medium non-stick pan on medium (5 on induction oven)
@@ -91,12 +91,12 @@ Keep a close eye on the ham — you want to bring the outer surface to a deep ma
   * done when underside is golden brown
 {{< /photolist >}}
 
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/05_flip.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/05_flip.jpg" >}}
 * transfer to large pan and cook for another 2-3min
   * done when underside is golden brown
 {{< /photolist >}}
 
-{{< photolist "/img/post/2021_05_29_buttermilk_pancakes/07_cool.jpg" >}}
+{{< photolist "/img/post/recipes/2021/05_29_buttermilk_pancakes/07_cool.jpg" >}}
 * if freezing, then let cook on rack before putting in freezer, otherwise add the preferred toppings
   * prevents condensation
 {{< /photolist >}}
