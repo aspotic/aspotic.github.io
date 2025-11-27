@@ -1,4 +1,4 @@
-HUGO ?= docker run --rm -it -v $(PWD):/src --workdir /src -p 1313:1313 klakegg/hugo:latest
+HUGO ?= docker run --rm -it -v $$(cd .. && pwd):/repo --workdir /repo/_source -p 1313:1313 klakegg/hugo:latest
 
 all: build save
 
@@ -6,7 +6,7 @@ clean:
 	rm -rf docs
 
 build: clean
-	$(HUGO)
+	$(HUGO) --minify
 
 save:
 	git pull	
