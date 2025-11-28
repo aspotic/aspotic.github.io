@@ -20,10 +20,9 @@ tags = ["Potatoe", "Air Fryer", "Dinner", "Supper", "Side", "Food", "Recipe"]
 * 1.5kg potatoes
 * 100g butter
 * 8ml chicken or vegetable stock
-* 1 tblspoon thyme leaves (or mix of thyme and marjoram)
+* 1 tbsp thyme leaves (or mix of thyme and marjoram)
 * 4 garlic cloves
 * 1 cup grated cheese
-* 
 
 {{< /photolist >}}
 
@@ -37,8 +36,8 @@ tags = ["Potatoe", "Air Fryer", "Dinner", "Supper", "Side", "Food", "Recipe"]
 
 {{< photolist "/img/post/recipes/2025/11_27_potatoes_pave/02_combine.jpg" >}}
 
-* Melt half of butter (50g) in a saucepan, add garlic (), stir into stock and spices
-* Layer potatoes, butter mix, potatoes, butter mix, potatoes, cheese, ...
+* Melt half of butter (50g) in a saucepan, add garlic (4 cloves), stir into stock (8ml) and spices (1 tbsp)
+* Layer potatoes, butter mix, potatoes, butter mix, potatoes, cheese, repeat ...
 
 {{< /photolist >}}
 
@@ -49,7 +48,7 @@ tags = ["Potatoe", "Air Fryer", "Dinner", "Supper", "Side", "Food", "Recipe"]
 {{< photolist "/img/post/recipes/2025/11_27_potatoes_pave/03_cook.jpg" >}}
 
 * Cook at 180f for 1hr. Use steam oven or cover with foil. Use skewer to make sure potatoes cook through.
-* Weigh down to compress while it cooles. Refrigerate over night
+* Weigh down to compress while it cools. Refrigerate over night
 
 {{< /photolist >}}
 
@@ -58,6 +57,6 @@ tags = ["Potatoe", "Air Fryer", "Dinner", "Supper", "Side", "Food", "Recipe"]
 {{< photolist "/img/post/recipes/2025/11_27_potatoes_pave/04_cut.jpg" >}}
 
 * Cut into pieces (about 12), then melt and brush on the rest of the butter on each piece.
-* Roast at 200c for 40min in air fryer tray with drip tray below
+* Roast at 200c for 40min
 
 {{< /photolist >}}
